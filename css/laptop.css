@@ -1,0 +1,127 @@
+
+/* ------------------ CSS for Laptop Starts Here ------ 769px to 1023px ---------------------------------------------------------------------------- */
+
+@media only screen and (min-width:769px) and (max-width:1023px) {
+
+    * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+    }
+    
+    
+/* Top Nav Bar & Section CSS Starts Here */
+    
+#top-section{
+    width: clamp(769px, 100%, 1023px);
+    margin: auto;
+    padding: clamp(4px, .75vw, 16px);
+    display: flex;
+    justify-content: space-between;
+}
+.top-nav{
+    border: 1px solid #0C356A;
+    display: inline-flex;
+}
+.top-nav > li {
+    list-style-type: none;
+}
+.top-nav > li > a:link {
+    text-decoration: none;
+    color: #0C356A;
+    padding: clamp(1px, .4vw, 8px);
+    display: block;
+    font-size: clamp(8px, 1vw, 12px);
+}
+#mob-number {
+    font-weight: bold;
+    font-size: clamp(12px, 1vw, 16px);
+}
+.top-nav > li > a:hover {
+    background-color: #0C356A;
+    color: #fff;
+}
+    
+    /* Top Nav Bar & Sectiobn CSS Ends Here */
+
+/* laptop Container CSS Starts Here */
+.container {
+    width: clamp(769px, 100%, 1023px);
+    margin: auto;
+}
+/* laptop Header CSS Starts Here */
+
+#middle-menu {
+    display: flex;
+    justify-content: space-between;
+}
+#middle-menu > div {
+    display: flex;
+    justify-content: center;
+}
+#logo-div {
+    width: 20vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#logo-div > a {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+}
+#logo-div > a > p:first-child {
+    padding: 0;
+    margin: 0;
+    color: #0C356A;
+    font-weight: bolder;
+    font-size: clamp(24px, 2vw, 48px);    
+    line-height: 80%;
+}
+#logo-div > a > p:nth-of-type(2) {
+    padding: 0;
+    margin: 0;
+    color: #0C356A;
+    font-weight: bolder;
+    font-size: clamp(18px, 1.5vw, 32px);
+}
+.book-now-img {
+    width: 40vw;
+}
+
+.book-now-img > a > img {
+    width: clamp(60px, 8vw, 120px);
+    border-radius: 50%;
+}
+
+/* middle logo & book now images middle menu for laptop  css ends here */
+/* Main Menu CSS For Laptop Starts Here */
+.main-menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #0C356A;
+
+}
+.main-menu > a {
+    text-decoration: none;
+    color: #fff;
+    font-size: clamp(3px, 5vw, 12px);
+    font-weight: lighter;
+    padding: clamp(1px, 1vw, 2px);
+}
+.main-menu > a:hover {
+    text-decoration: none;
+    color: #fff;
+    font-weight: lighter;
+}
+
+.main-menu > a > img {
+    width: 20px;
+    height: 20px;
+    margin-top: -5px;
+}
+/* Main Menu CSS For Laptop Ends Here */
+
+}   
+/* ------------------ CSS for Laptop Ends Here -------- 769px to 1095px -------------------------------------------------------------------- */
