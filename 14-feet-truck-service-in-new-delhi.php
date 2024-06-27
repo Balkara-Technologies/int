@@ -57,7 +57,7 @@
                         <div class="about-para">
                             <p>
                                 14 Feet Truck Transport Services Are Very Much In Demand In New Delhi Due To Frequent Home Shifting By Families In New Delhi.
-                                Our Wide Range Of Transport Services Include Packers Movers Services, Packing Of Household Goods, Loading, Unloading
+                                Our Wide Range Of Transport Services Include Packers Movers Services and Car Transport Services, Packing Of Household Goods, Loading, Unloading
                                 And Unpacking Of Home Goods. Our Professional Packers Movers Staff Shifts Your Household Goods With Very Ease And 
                                 Comfort. Transportation Services For 14 Feet Truck, 17 Feet Truck, 19 Feet Truck And 20 Feet Open And Close Body 
                                 Truck Transportation Services Available Round The Cloack With Our Company. 
