@@ -45,10 +45,10 @@
         <section class="section">
             <h1>This is h1 line</h1>
             <div class="content-wrapper">
-                <img src="../images/truck1.jpg" alt="Large Truck Trailer" class="image-left">
+                <img src="./images/truck1.jpg" alt="Large Truck Trailer" class="image-left">
                 <div class="text">
                     <h2>This is h2 line</h2>
-                    <p>Large Size Truck Trailers & Containers In New Delhi Is Provided By National Transport Company New Delhi.</p>
+                    <p>Large Large Size Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates laudantium non animi numquam ea adipisci soluta, quisquam ad earum repellendus praesentium amet, fuga maiores libero sapiente explicabo perferendis corrupti! Illo temporibus libero fugit aliquam, exercitationem distinctio officia error corporis quo tenetur quidem minus ducimus quia placeat consectetur asperiores? Ratione Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae similique laborum beatae soluta quo voluptatibus! Labore corporis rerum minus error enim modi fugit molestiae inventore expedita maiores temporibus, voluptates incidunt animi iste eveniet corrupti perspiciatis, quibusdam laudantium iusto ullam illo. odio quaerat atque cum omnis sunt error iste tempore nemo suscipit? Truck Trailers & Containers In New Delhi Is Provided By National Transport Company New Delhi.Size Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates laudantium non animi numquam ea adipisci soluta, quisquam ad earum repellendus praesentium amet, fuga maiores libero sapiente explicabo perferendis corrupti! Illo temporibus libero fugit aliquam, exercitationem distinctio officia error corporis quo tenetur quidem minus ducimus quia placeat consectetur asperiores? Ratione Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae similique laborum beatae soluta quo voluptatibus! Labore corporis rerum minus error enim modi fugit molestiae inventore expedita maiores temporibus, voluptates incidunt animi iste eveniet corrupti perspiciatis, quibusdam laudantium iusto ullam illo. odio quaerat atque cum omnis sunt error iste tempore nemo suscipit? Truck Trailers & Containers In New Delhi Is Provided By National Transport Company New Delhi.</p>
                 </div>
             </div>
             <div class="buttons">
@@ -60,9 +60,9 @@
             <h1>This is h3 line</h1>
             <div class="content-wrapper">
                 <div class="text">
-                    <p>Large Size Truck Trailers & Containers In New Delhi Is Provided By National Transport Company New Delhi.</p>
+                    <p>LargeLarge Size Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates laudantium non animi numquam ea adipisci soluta, quisquam ad earum repellendus praesentium amet, fuga maiores libero sapiente explicabo perferendis corrupti! Illo temporibus libero fugit aliquam, exercitationem distinctio officia error corporis quo tenetur quidem minus ducimus quia placeat consectetur asperiores? Ratione Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae similique laborum beatae soluta quo voluptatibus! Labore corporis rerum minus error enim modi fugit molestiae inventore expedita maiores temporibus, voluptates incidunt animi iste eveniet corrupti perspiciatis, quibusdam laudantium iusto ullam illo. odio quaerat atque cum omnis sunt error iste tempore nemo suscipit? Truck Trailers & Containers In New Delhi Is Provided By National Transport Company New Delhi. Size Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates laudantium non animi numquam ea adipisci soluta, quisquam ad earum repellendus praesentium amet, fuga maiores libero sapiente explicabo perferendis corrupti! Illo temporibus libero fugit aliquam, exercitationem distinctio officia error corporis quo tenetur quidem minus ducimus quia placeat consectetur asperiores? Ratione Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae similique laborum beatae soluta quo voluptatibus! Labore corporis rerum minus error enim modi fugit molestiae inventore expedita maiores temporibus, voluptates incidunt animi iste eveniet corrupti perspiciatis, quibusdam laudantium iusto ullam illo. odio quaerat atque cum omnis sunt error iste tempore nemo suscipit? Truck Trailers & Containers In New Delhi Is Provided By National Transport Company New Delhi.Large Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iste a eius neque magni, dicta perspiciatis tenetur temporibus accusantium ex ratione suscipit tempore quidem consectetur unde. Quae deserunt voluptatum aut, eaque at, distinctio iste possimus velit omnis nobis, voluptas quibusdam vero? Size Truck Trailers & Containers In New Delhi Is Provided By National Transport Company New Delhi.</p>
                 </div>
-                <img src="/images/truck2.jpg" alt="Large Truck Container" class="image-right">
+                <img src="./images/truck2.jpg" alt="Large Truck Container" class="image-right">
             </div>
             <div class="buttons">
                 <a href="#book" class="btn">Book Now</a>
@@ -73,10 +73,10 @@
         <section class="section">
             <h1>This is h5 line</h1>
             <div class="content-wrapper">
-                <img src="/images/truck3.jpg" alt="Large Truck Trailer" class="image-left">
+                <img src="./images/truck3.jpg" alt="Large Truck Trailer" class="image-left">
                 <div class="text">
                     <h2>This is h4 line</h2>
-                    <p>Large Size Truck Trailers & Containers In New Delhi Is Provided By National Transport Company New Delhi.</p>
+                    <p>Large SizLarge Size Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates laudantium non animi numquam ea adipisci soluta, quisquam ad earum repellendus praesentium amet, fuga maiores libero sapiente explicabo perferendis corrupti! Illo temporibus libero fugit aliquam, exercitationem distinctio officia error corporis quo tenetur quidem minus ducimus quia placeat consectetur asperiores? Ratione Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae similique laborum beatae soluta quo voluptatibus! Labore corporis rerum minus error enim modi fugit molestiae inventore expedita maiores temporibus, voluptates incidunt animi iste eveniet corrupti perspiciatis, quibusdam laudantium iusto ullam illo. odio quaerat atque cum omnis sunt error iste tempore nemo suscipit? Truck Trailers & Containers In New Delhi Is Provided By National Transport Company New Delhi.e Truck Trailers Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil quidem delectus accusamus. Beatae, exercitationem quae. Sequi, libero dolorem. Fugiat molestias modi sint suscipit cum optio exercitationem dolore vitae? Odit doloribus vero fugiat velit, recusandae nemo. Voluptatum fuga ipsa quibusdam voluptatibus. & Containers In New Delhi Is Provided By National Transport Company New Delhi.</p>
                 </div>
             </div>
             <div class="buttons">
@@ -89,9 +89,9 @@
             <h1>This is h6 line</h1>
             <div class="content-wrapper">
                 <div class="text">
-                    <p>Large Size Truck Trailers & Containers In New Delhi Is Provided By National Transport Company New Delhi.</p>
+                    <p>Large Size Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates laudantium non animi numquam ea adipisci soluta, quisquam ad earum repellendus praesentium amet, fuga maiores libero sapiente explicabo perferendis corrupti! Illo temporibus libero fugit aliquam, exercitationem distinctio officia error corporis quo tenetur quidem minus ducimus quia placeat consectetur asperiores? Ratione Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae similique laborum beatae soluta quo voluptatibus! Labore corporis rerum minus error enim modi fugit molestiae inventore expedita maiores temporibus, voluptates incidunt animi iste eveniet corrupti perspiciatis, quibusdam laudantium iusto ullam illo. odio quaerat atque cum omnis sunt error iste tempore nemo suscipit? Truck Trailers & Containers In New Delhi Is Provided By National Transport Company New Delhi.Large Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum vel impedit incidunt repellendus qui numquam eos obcaecati debitis perspiciatis et quia eaque consequuntur voluptas placeat a repellat accusantium, asperiores excepturi beatae iure enim molestiae. Eius vitae officiis at quam repudiandae. Size Truck Trailers & Containers In New Delhi Is Provided By National Transport Company New Delhi.</p>
                 </div>
-                <img src="/images/truck4.jpg" alt="Large Truck Container" class="image-right">
+                <img src="./images/truck4.jpg" alt="Large Truck Container" class="image-right">
             </div>
             <div class="buttons">
                 <a href="#book" class="btn">Book Now</a>
@@ -108,46 +108,46 @@
             <h2>Latest Blog Posts</h2>
             <div class="blog-wrapper">
                 <article class="blog-post">
-                    <img src="/images/truck5.png" alt="Blog 1" class="blog-image">
+                    <img src="./images/truck5.png" alt="Blog 1" class="blog-image">
                     <h3>10 Skills Every PM Must Have</h3>
-                    <p>Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your audience to continue reading.</p>
+                    <p>Create Large Size Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates laudantium non animi numquam ea adipisci soluta, quisquam ad earum repellendus praesentium amet, fuga maiores libero sapiente explicabo perferendis corrupti! Illo temporibus libero fugit aliquam, exercitationem distinctio officia error corporis quo tenetur quidem minus ducimus quia placeat consectetur asperiores? Ratione Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae similique laborum beatae soluta quo voluptatibus! Labore corporis rerum minus error enim modi fugit molestiae inventore expedita maiores temporibus, voluptates incidunt animi iste eveniet corrupti perspiciatis, quibusdam laudantium iusto ullam illo. odio quaerat atque cum omnis sunt error iste tempore nemo suscipit? Truck Trailers & Containers In New Delhi Is Provided By National Transport Company New Delhi.a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your audience to continue reading.</p>
                     <a href="#readmore" class="btn">Read More</a>
                 </article>
                 <article class="blog-post">
-                    <img src="/images/truck5.png" alt="Blog 2" class="blog-image">
+                    <img src="./images/truck5.png" alt="Blog 2" class="blog-image">
                     <h3>7 Best Project Management Podcast</h3>
-                    <p>Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your audience to continue reading.</p>
+                    <p>CreateLarge Size Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates laudantium non animi numquam ea adipisci soluta, quisquam ad earum repellendus praesentium amet, fuga maiores libero sapiente explicabo perferendis corrupti! Illo temporibus libero fugit aliquam, exercitationem distinctio officia error corporis quo tenetur quidem minus ducimus quia placeat consectetur asperiores? Ratione Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae similique laborum beatae soluta quo voluptatibus! Labore corporis rerum minus error enim modi fugit molestiae inventore expedita maiores temporibus, voluptates incidunt animi iste eveniet corrupti perspiciatis, quibusdam laudantium iusto ullam illo. odio quaerat atque cum omnis sunt error iste tempore nemo suscipit? Truck Trailers & Containers In New Delhi Is Provided By National Transport Company New Delhi. a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your audience to continue reading.</p>
                     <a href="#readmore" class="btn">Read More</a>
                 </article>
                 <article class="blog-post">
-                    <img src="/images/truck5.png" alt="Blog 3" class="blog-image">
+                    <img src="./images/truck5.png" alt="Blog 3" class="blog-image">
                     <h3>Communication is Key - How to Do it Best</h3>
-                    <p>Create a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your audience to continue reading.</p>
+                    <p>CreaLarge Size Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates laudantium non animi numquam ea adipisci soluta, quisquam ad earum repellendus praesentium amet, fuga maiores libero sapiente explicabo perferendis corrupti! Illo temporibus libero fugit aliquam, exercitationem distinctio officia error corporis quo tenetur quidem minus ducimus quia placeat consectetur asperiores? Ratione Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae similique laborum beatae soluta quo voluptatibus! Labore corporis rerum minus error enim modi fugit molestiae inventore expedita maiores temporibus, voluptates incidunt animi iste eveniet corrupti perspiciatis, quibusdam laudantium iusto ullam illo. odio quaerat atque cum omnis sunt error iste tempore nemo suscipit? Truck Trailers & Containers In New Delhi Is Provided By National Transport Company New Delhi.te a blog post subtitle that summarizes your post in a few short, punchy sentences and entices your audience to continue reading.</p>
                     <a href="#readmore" class="btn">Read More</a>
                 </article>
             </div>
         </section>
     </main>
-    
+    <br>
     <!-- Testimonials Section -->
     <section class="testimonials">
         <h2>Testimonials</h2>
         <p>Subscribe Easy Tutorials YouTube channel to watch more videos.</p>
         <div class="testimonial-wrapper">
             <div class="testimonial">
-                <img src="/images/user1.png" alt="User 1" class="user-image">
+                <img src="./images/user1.png" alt="User 1" class="user-image">
                 <p><span class="quote">“</span> Like this video and ask your questions in the comment section. Don't forget to Subscribe Easy Tutorials YouTube channel to watch more videos of website designing, digital marketing, and photoshop. <span class="quote">”</span></p>
                 <p class="user-name">Avinash Kr</p>
                 <p class="user-title">Co-Founder at XYZ</p>
             </div>
             <div class="testimonial">
-                <img src="/images/user1.png" alt="User 2" class="user-image">
+                <img src="./images/user1.png" alt="User 2" class="user-image">
                 <p><span class="quote">“</span> Like this video and ask your questions in the comment section. Don't forget to Subscribe Easy Tutorials YouTube channel to watch more videos of website designing, digital marketing, and photoshop. <span class="quote">”</span></p>
                 <p class="user-name">Bharat Kunal</p>
                 <p class="user-title">Manager at XYZ</p>
             </div>
             <div class="testimonial">
-                <img src="/images/user1.png" alt="User 3" class="user-image">
+                <img src="./images/user1.png" alt="User 3" class="user-image">
                 <p><span class="quote">“</span> Like this video and ask your questions in the comment section. Don't forget to Subscribe Easy Tutorials YouTube channel to watch more videos of website designing, digital marketing, and photoshop. <span class="quote">”</span></p>
                 <p class="user-name">Prabhakar D</p>
                 <p class="user-title">Founder/CEO at XYZ</p>
