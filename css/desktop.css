@@ -1,0 +1,612 @@
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+ /*    --------------------------------- css for desktop & above devices starts here for devices 1024px to 1440px ---------------------------*/
+
+@media only screen and (min-width: 1024px) {
+
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+}
+
+
+/* Top Nav Bar & Sectiobn CSS Starts Here for desktop 1024px to 1440px */
+
+#top-section{
+    width: clamp(1024px, 100%, 1440px);
+    margin: auto;
+    margin-top: 5px;
+    /* padding: clamp(4px, .75vw, 16px); */
+    display: flex;
+    justify-content: space-between;
+}
+.top-nav{
+    border: 1px solid #0C356A;
+    display: inline-flex;
+}
+.top-nav > li {
+    list-style-type: none;
+}
+.top-nav > li > a:link {
+    text-decoration: none;
+    color: #0C356A;
+    padding: clamp(1px, .4vw, 8px);
+    display: block;
+    font-size: clamp(12px, 1vw, 14px);
+}
+#mob-number {
+    font-weight: bold;
+    font-size: clamp(12px, 1vw, 16px);
+}
+.top-nav > li > a:hover {
+    background-color: #0C356A;
+    color: #fff;
+}
+
+/* Top Nav Bar & Sectiobn CSS Ends Here */
+
+/* Container CSS Starts Here.............. */
+.container {
+    width: clamp(1024px, 100%, 1440px);
+    margin: auto;
+    
+}
+/* Middle Menu CSS Starts Here ................... */
+
+#middle-menu {
+    display: flex;
+    justify-content: space-between;
+}
+#middle-menu > div {
+    display: flex;
+    justify-content: center;
+}
+#logo-div {
+    width: 20vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#logo-div > a {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+}
+#logo-div > a > p:first-child {
+    padding: 0;
+    margin: 0;
+    color: #0C356A;
+    font-weight: bolder;
+    font-size: clamp(24px, 2vw, 48px);    
+    line-height: 80%;
+}
+#logo-div > a > p:nth-of-type(2) {
+    padding: 0;
+    margin: 0;
+    color: #0C356A;
+    font-weight: bolder;
+    font-size: clamp(18px, 1.5vw, 32px);
+}
+.book-now-img {
+    width: 40vw;
+}
+
+.book-now-img > a > img {
+    width: clamp(60px, 8vw, 120px);
+    border-radius: 50%;
+}
+
+/* middle logo & book now images css ends here */
+
+
+
+.main-menu {
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #0C356A;
+
+}
+.main-menu > a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: lighter;
+}
+.main-menu > a:hover {
+    text-decoration: none;
+    color: #fff;
+    font-weight: lighter;
+}
+
+.main-menu > a > img {
+    width: 20px;
+    height: 20px;
+    margin-top: -5px;
+}
+/*  About CSS for Desktop Starts Here */
+  }
+  /* .about-section {
+    display: flex;
+    width: 100%w;
+    height: 300px;
+    padding-top: 1rem;
+
+   
+  }
+.about-content {
+    display: flex;
+    width: 75%;
+    height: 100%;
+  }
+.about-image {
+    width: 30%;
+  }
+.about-image > img {
+    width: 100%;
+    height: 100%;
+}
+
+.about-text {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+}
+.about-heading > h1 {
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
+.about-para > p {
+    text-align: justify;
+    line-height: 1.5rem;
+    margin-top: .5rem;
+}
+
+.about-section > .about-getquote {
+    width: 25%;
+    height: 100%;
+  } */
+  /* Get Quote on Home Page Starts Here */
+/*  
+  .about-getquote > form {
+    padding: 5%;
+  }
+.fieldset > legend {
+    font-size: 1rem;
+    text-align: center;
+}
+.fieldset > label {
+    width: 30%;
+}
+.fieldset > input {
+    width: 70%;
+    margin: 2% 2%;
+}
+.fieldset > input[type=submit] {
+    margin: 5% 22.5%;
+}
+
+/* Keywords CSS Starts Here */
+
+.keywords {
+    margin: 2rem 0;
+    display: flex;
+    justify-content: space-around;
+}
+.keywords > a {
+    text-decoration: none;
+    color: #0C356A;
+    border: 1px solid #0C356A;
+    padding: .25rem .5rem;
+} */
+
+/* Our Services on Main Page CSS Starts Here */
+/* .services {
+    display: flex;
+    flex-wrap: wrap;
+}
+.services-heading {
+    width: 100%;
+}
+.services-heading > p {
+    font-size: 25px;
+    text-align: center;
+    background-color: #0174be;
+}
+.services-img {
+    width: 25%;
+    height: 250px;
+}
+.services-img > img {
+    width: 100%;
+    height: 100%;
+} */
+/* Our Services on Main Page CSS Ends Here */
+
+/* Testimonials on Main Page CSS Starts Here */
+/* .testimonial-section {
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.testimonial-heading {
+    width: 100%;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.testimonial {
+    width: 25%;
+    text-align: center;
+    margin: 30px;
+    border: 1px solid #0C356A;
+}
+.testimonial > img {
+    width: 150px;
+    border-radius: 50%;
+}
+.testimonial-content {
+    padding: 30px;
+    text-align: justify;
+} */
+/* Testimonials on Main Page CSS Ends Here */
+
+/* Recent Searches Section CSS Starts Here */
+/* .recent-section {
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.recent-heading {
+    width: 100%;
+    text-align: center;
+    font-size: 2.5rem;
+}
+.recent-content {
+    width: 40%;
+    text-align: center;
+    margin: 25px;
+    padding: 25px;
+    border: 1px solid #0C356A;
+}
+.recent-content > p {
+    font-size: 2rem;
+}
+.recent-content > a {
+    text-decoration: none;
+    margin: 10px;
+    padding: 5px;
+} */
+/* Recent Searches Section CSS Ends Here */
+
+
+
+        /* css for desktop devices ends here screen size 1024px to 1440px ..........................................................................  */
+
+
+               /* Continue from previous CSS */
+
+/* Additional styling for Popular Searches Section */
+.popular-searches-1 {
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 20px; /* Add margin to separate from footer */
+}
+
+.popular-searches-1 h3 {
+    margin-bottom: 10px;
+    font-size: 1.5em;
+    color: #555;
+}
+
+.popular-searches-1 a {
+    color: #333;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.popular-searches-1 a:hover {
+    text-decoration: underline;
+}
+
+/* General styles */
+.container-1 {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .footer-1 .container-1 {
+        flex-wrap: wrap;
+    }
+    .footer-column-1 {
+        flex: 1 1 50%;
+        max-width: 50%;
+    }
+    .popular-searches-1 {
+        padding: 20px;
+    }
+}
+
+        .body-1 {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .footer-1 {
+            background-color: #240725;
+            color: white;
+            padding: 40px 0;
+        }
+        .footer-1 .container-1 {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+        .footer-column-1 {
+            flex: 1;
+            margin: 10px;
+            min-width: 200px;
+        }
+        .footer-column-1 h3 {
+            border-bottom: 2px solid #f4f4f4;
+            padding-bottom: 10px;
+            margin-bottom: 10px;
+        }
+        .footer-column-1 ul {
+            list-style: none;
+            padding: 0;
+        }
+        .footer-column-1 ul li {
+            margin: 10px 0;
+        }
+        .footer-column-1 ul li a {
+            color: white;
+            text-decoration: none;
+        }
+        .footer-column-1 ul li a:hover {
+            text-decoration: underline;
+        }
+        .social-media-1 {
+            display: flex;
+            justify-content: flex-start;
+        }
+        .social-media-1 a {
+            color: white;
+            font-size: 20px;
+            margin-right: 15px;
+        }
+        .popular-searches-1 {
+            background-color: #fff;
+            color: #333;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .popular-searches-1 a {
+            color: #333;
+            margin: 0 10px;
+            text-decoration: none;
+        }
+        .popular-searches-1 a:hover {
+            text-decoration: underline;
+        }
+        @media (max-width: 768px) {
+            .footer-column-1 {
+                flex: 1 1 100%;
+            }
+        }
+        .search {
+           
+    text-align: left;
+    padding: 20px;
+    margin: 10px;
+        
+        }
+            .p11{
+                font-weight: 700;
+                font-size: 20px;}
+ 
+  
+
+.content {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.section {
+  margin-bottom: 20px;
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.content-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.content-wrapper .text {
+  flex: 1;
+  padding: 0 20px;
+}
+
+.image-left, .image-right {
+  width: 200px;
+  height: auto;
+  flex: 0 0 200px;
+  border-radius: 8px;
+}
+
+.image-right {
+  order: 2;
+}
+
+.buttons {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.btn {
+  display: inline-block;
+  background: #f39c12;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  margin: 5px;
+  transition: background 0.3s ease;
+}
+
+.btn:hover {
+  background: #e67e22;
+}
+
+.blog-posts {
+  background: #fff;
+  padding: 20px;
+  text-align: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.blog-posts h2 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.blog-wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.blog-post {
+  background: #f4f4f4;
+  padding: 20px;
+  border-radius: 8px;
+  margin: 10px;
+  flex: 1;
+  max-width: 30%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.blog-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.testimonials {
+  background: #fff;
+  padding: 20px;
+  text-align: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.testimonials h2 {
+  color: #f39c12;
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.testimonials p {
+  margin-bottom: 20px;
+  font-size: 1.1em;
+}
+
+.testimonial-wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.testimonial {
+  background: #f4f4f4;
+  padding: 20px;
+  border-radius: 8px;
+  margin: 10px;
+  flex: 1;
+  max-width: 30%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.user-image {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.quote {
+  color: #f39c12;
+  font-size: 1.5em;
+}
+
+.user-name {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.user-title {
+  font-style: italic;
+  color: #666;
+}
+
+.footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+@media (max-width: 768px) {
+  .content-wrapper, .blog-wrapper, .testimonial-wrapper {
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .image-left, .image-right {
+      width: 100%;
+      margin-bottom: 20px;
+  }
+
+  .text {
+      padding: 0;
+  }
+
+  .blog-post, .testimonial {
+      max-width: 100%;
+  }
+}
+
+            
