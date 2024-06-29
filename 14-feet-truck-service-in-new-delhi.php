@@ -29,46 +29,133 @@
 
     <meta name="google-site-verification" content="uGLmKuc7Gw-ExsjaWgi4eZbwDkwHbmuMfo1S6Gkgny8" />
     
-    <link rel="stylesheet" href="/css/destop.css">
-    <link rel="stylesheet" href="/css/laptop.css">
-    <link rel="stylesheet" href="/css/tablets.css">
-    <link rel="stylesheet" href="/css/mobile.css">
+    <link rel="stylesheet" href="css/mobile.css">
+    <link rel="stylesheet" href="css/tablet.css">
+    <link rel="stylesheet" href="css/laptop.css">
+    <link rel="stylesheet" href="css/desktop.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 </head>
 
 <body>
-    <h1>This is the code part</h1>
+   
     <?php include "top-menu.php"; ?>
+    <?php include "middle-menu.php"; ?>
+    <?php include "main-menu.php"; ?>
     <div class="container">
-        <?php include "middle-menu.php"; ?>
-        <?php include "main-menu.php"; ?>
-        
-<!-- About Section Starts Here -->
-
+        <!-- About Section Starts Here -->
+        <h1 class="heading-one slash">Truck Service In New Delhi</h1>
         <div class="about-section">
-                <div class="about-content">
-                    <div class="about-image">
-                        <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
-                    </div>
-                    <div class="about-text">
-                        <div class="about-heading">
-                            <h1>14 Feet Truck Transport Service New Delhi</h1>
-                        </div>
-                        <div class="about-para">
-                            <p>
-                                14 Feet Truck Transport Services Are Very Much In Demand Due To Frequent Home Shifting By Families In New Delhi.
-                                Our Wide Range Of Transport Services Include Packers Movers Services, Packing Of Household Goods, Loading, Unloading
-                                And Unpacking Of Home Goods. Our Professional Packers Movers Staff Shifts Your Household Goods With Very Ease And 
-                                Comfort. Transportation Services For 14 Feet Truck, 17 Feet Truck, 19 Feet Truck And 20 Feet Open And Close Body 
-                                Truck Transportation Services Available Round The Cloack With Our Company. 
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="about-getquote">        
-                    <?php include "enquiry-form.php"; ?>
-                </div>
+          <div class="about-image">
+            <img src="images/truck-images/tp1.jpg" alt="National-Transport-Company-New-Delhi">
+          </div>
+          <div class="about-text">
+            <div class="about-heading">
+              <h1 class="heading-two ">14 Feet Truck Transport Service New Delhi</h1>
+             
+            </div>
+            <div class="about-para">
+              <p>
+                14 Feet Truck Transport Services Are Very Much In Demand In New Delhi Due To Frequent Home Shifting By Families In New Delhi.
+                Our Wide Range Of Transport Services Include Packers Movers Services and Car Transport Services, Packing Of Household Goods, Loading, Unloading
+                And Unpacking Of Home Goods. Our Professional Packers Movers Staff Shifts Your Household Goods With Very Ease And 
+                Comfort. Transportation Services For 14 Feet Truck, 17 Feet Truck, 19 Feet Truck And 20 Feet Open And Close Body 
+                Truck Transportation Services Available Round The Clock With Our Company. 
+              </p>
+            </div>
+            <div class="row button-row">
+              <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Enquiry</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Read More</a></div>
+            </div>
+          </div>
         </div>
+    <div class="container">
+        <div class="about-section">
+            <div class="about-text">
+            <div class="about-heading">
+                <h1 class="heading-two">14 Feet Truck Transport Service New Delhi</h1>
+            </div>
+      <div class="about-para">
+        <p>
+          14 Feet Truck Transport Services Are Very Much In Demand In New Delhi Due To Frequent Home Shifting By Families In New Delhi.
+          Our Wide Range Of Transport Services Include Packers Movers Services and Car Transport Services, Packing Of Household Goods, Loading, Unloading
+          And Unpacking Of Home Goods. Our Professional Packers Movers Staff Shifts Your Household Goods With Very Ease And 
+          Comfort. Transportation Services For 14 Feet Truck, 17 Feet Truck, 19 Feet Truck And 20 Feet Open And Close Body 
+          Truck Transportation Services Available Round The Clock With Our Company. 
+        </p>
+      </div>
+      <div class="row button-row">
+        <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
+        <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
+        <div class="four-btn"><a href="#" class="text-decoration-none ">Enquiry</a></div>
+        <div class="four-btn"><a href="#" class="text-decoration-none">Read More</a></div>
+      </div>
+    </div>
+    <div class="about-image-two">
+      <img src="images/truck2.jpg" alt="National-Transport-Company-New-Delhi">
+    </div>
+  </div>
+</div>
+<div class="container">
+        <!-- About Section Starts Here -->
+        <div class="about-section">
+          <div class="about-image">
+            <img src="images/truck1.jpg" alt="National-Transport-Company-New-Delhi">
+          </div>
+          <div class="about-text">
+            <div class="about-heading">
+              <h1 class="heading-two head-one ">14 Feet Truck Transport Service New Delhi</h1>
+             
+            </div>
+            <div class="about-para">
+              <p>
+                14 Feet Truck Transport Services Are Very Much In Demand In New Delhi Due To Frequent Home Shifting By Families In New Delhi.
+                Our Wide Range Of Transport Services Include Packers Movers Services and Car Transport Services, Packing Of Household Goods, Loading, Unloading
+                And Unpacking Of Home Goods. Our Professional Packers Movers Staff Shifts Your Household Goods With Very Ease And 
+                Comfort. Transportation Services For 14 Feet Truck, 17 Feet Truck, 19 Feet Truck And 20 Feet Open And Close Body 
+                Truck Transportation Services Available Round The Clock With Our Company. 
+              </p>
+            </div>
+            <div class="row button-row">
+              <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Enquiry</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Read More</a></div>
+            </div>
+          </div>
+        </div>
+    <div class="container">
+        <div class="about-section">
+            <div class="about-text">
+            <div class="about-heading">
+                <h1 class="heading-two">14 Feet Truck Transport Service New Delhi</h1>
+            </div>
+      <div class="about-para">
+        <p>
+          14 Feet Truck Transport Services Are Very Much In Demand In New Delhi Due To Frequent Home Shifting By Families In New Delhi.
+          Our Wide Range Of Transport Services Include Packers Movers Services and Car Transport Services, Packing Of Household Goods, Loading, Unloading
+          And Unpacking Of Home Goods. Our Professional Packers Movers Staff Shifts Your Household Goods With Very Ease And 
+          Comfort. Transportation Services For 14 Feet Truck, 17 Feet Truck, 19 Feet Truck And 20 Feet Open And Close Body 
+          Truck Transportation Services Available Round The Clock With Our Company. 
+        </p>
+      </div>
+      <div class="row button-row">
+        <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
+        <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
+        <div class="four-btn"><a href="#" class="text-decoration-none ">Enquiry</a></div>
+        <div class="four-btn"><a href="#" class="text-decoration-none">Read More</a></div>
+      </div>
+    </div>
+    <div class="about-image-two">
+      <img src="images/truck1.jpg" alt="National-Transport-Company-New-Delhi">
+    </div>
+  </div>
+</div>
+
+
+
+
 
 <!-- About Section Ends Here -->
 
@@ -101,22 +188,6 @@
                             <p>National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.</p>
                         </div>
                     </div>
-                    <div class="row mt-5">
-                        <div class="col-3 four-btn">
-                            <a href="#" class="text-decoration-none">Book Now</a>
-                        </div>
-                        <div class="col-3 four-btn">
-                            <a href="#" class="text-decoration-none">Contact</a>
-                        </div>
-                        <div class="col-3 four-btn">
-                            <a href="#" class="text-decoration-none">Enquiry</a>
-                        </div>
-                        <div class="col-3 four-btn">
-                            <a href="#" class="text-decoration-none">Read More</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
             <div class="col-5 ms-5 tempo-one">
                 <img src="images/truck-images/14-feet-open-canter-truck-service-new-delhi.jpg" alt="tempo-image" class="img-fluid">
             </div>

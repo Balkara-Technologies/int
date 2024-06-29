@@ -155,7 +155,7 @@
         </div>
     </section>
     
-
+<br>
 
         <div class="about-section">
             <div class="about-content">

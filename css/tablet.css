@@ -1,7 +1,7 @@
-/* css for mobile devices max device width 425px   ( device width between 320px to 425px ) starts here -----------------------------------------------*/
+/* ------------------ CSS for Tablet Starts Here ------------------------------------------------------------------------------------------- */
 
 
-@media only screen and (min-width: 320px) and (max-width:425px) {
+@media only screen and (min-width:425px) and (max-width:768px) {
     * {
         margin: 0;
         padding: 0;
@@ -9,11 +9,8 @@
         font-family: Arial, Helvetica, sans-serif;
     }
 
-    /* Top Nav Bar & Section CSS Starts Here */
-
-
     #top-section {
-        width: clamp(360px, 100%, 425px);
+        width: clamp(426px, 100%, 768px);
         margin: auto;
         padding: clamp(4px, .75vw, 16px);
         display: flex;
@@ -57,12 +54,12 @@
         color: #0C356A;
         padding: clamp(1px, .4vw, 8px);
         display: block;
-        font-size: clamp(12px, 1vw, 14px);
+        font-size: clamp(14px, 1vw, 16px);
     }
 
     #mob-number {
         font-weight: bold;
-        font-size: clamp(12px, 1vw, 16px);
+        font-size: clamp(16px, 1vw, 16px);
         color: #fff;
     }
 
@@ -71,15 +68,15 @@
         color: #fff;
     }
 
-    /* Top Nav Bar & Sectiobn CSS Ends Here*/
+    /* Top Nav Bar & Sectiobn CSS Ends Here............ Tablet Media Query  */
 
-    /* Mobile Container CSS Starts Here */
+    /* Tablet Container CSS Starts Here */
     .container {
-        width: clamp(360px, 100%, 425px);
+        width: clamp(426px, 100%, 768px);
         margin: auto;
     }
 
-    /* Mobile Header CSS Starts Here */
+    /* Tablet Header CSS Starts Here */
 
     #middle-menu {
         display: flex;
@@ -133,25 +130,52 @@
     /* middle logo & book now images middle menu for Tablet  css ends here */
 
 
-
-    /* css for mobile devices max device width 425px   ( device width between 320px to 425px ) Ends here */
-
-
 }
-@media (max-width: 480px) {
-    .heading-one {
-        font-size: 1.8em;
+
+@media (max-width: 768px) {
+
+    .content-wrapper,
+    .blog-wrapper,
+    .testimonial-wrapper {
+        flex-direction: column;
+        align-items: center;
     }
 
-    .about-heading h1 {
-        font-size: 1.5em;
+    .image-left,
+    .image-right {
+        width: 100%;
+        margin-bottom: 20px;
     }
 
-    .about-para p {
-        font-size: 0.9em;
+    .text {
+        padding: 0;
     }
 
-    .four-btn a {
-        padding: 8px 10px;
+    .blog-post,
+    .testimonial {
+        max-width: 100%;
     }
 }
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .about-section {
+        flex-direction: column;
+    }
+
+    .about-image,
+    .about-text {
+        flex: 1 1 100%;
+    }
+
+    .button-row {
+        flex-direction: column;
+    }
+
+    .four-btn {
+        margin: 10px 0;
+    }
+}
+/* ------------------ CSS for Tablet Ends Here ----------------------------------------------------------------------------------------------- */
+
+/* Responsive Design */

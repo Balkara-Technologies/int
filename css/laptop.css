@@ -1,7 +1,7 @@
 
 /* ------------------ CSS for Laptop Starts Here ------ 769px to 1023px ---------------------------------------------------------------------------- */
 
-@media only screen and (min-width:769px) and (max-width:1023px) {
+@media only screen and (min-width:768px) and (max-width:1024px) {
 
     * {
             margin: 0;
@@ -125,3 +125,41 @@
 
 }   
 /* ------------------ CSS for Laptop Ends Here -------- 769px to 1095px -------------------------------------------------------------------- */
+
+@media (max-width: 768px) {
+    .footer-1 .container-1 {
+        flex-wrap: wrap;
+    }
+
+    .footer-column-1 {
+        flex: 1 1 50%;
+        max-width: 50%;
+    }
+
+    .popular-searches-1 {
+        padding: 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    .footer-column-1 {
+        flex: 1 1 100%;
+    }
+}
+@media (max-width: 425px) {
+    .heading-1 {
+        font-size: 1.8em;
+    }
+
+    .about-heading h1 {
+        font-size: 1.5em;
+    }
+
+    .about-para p {
+        font-size: 0.9em;
+    }
+
+    .four-btn a {
+        padding: 8px 10px;
+    }
+}
