@@ -298,6 +298,10 @@
                 </div>
             </div>
 
+
+
+
+            
             <div class="col-4 ms-5 ps-5 p-0 m-0">
                 <img src="images/zero-degree-platform-truck.jpg" alt="this is about page image-4" class="ms-3" style="width: 500px; height:400px">
             </div>
