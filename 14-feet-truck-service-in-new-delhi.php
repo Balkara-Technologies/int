@@ -37,7 +37,7 @@
 </head>
 
 <body>
-    <h1>This is the code part</h1>
+   
     <?php include "top-menu.php"; ?>
     <div class="container">
         <?php include "middle-menu.php"; ?>
