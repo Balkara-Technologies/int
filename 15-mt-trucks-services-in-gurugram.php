@@ -53,7 +53,7 @@
                 <div class="about-text">
                     <div class="about-heading">
                         <h1>15 MT Truck Transport Company New Delhi</h1>
-                        <h2>Buy the truck</h2>
+                  
                     </div>
                     <div class="about-para">
                         <p>
