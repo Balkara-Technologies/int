@@ -44,7 +44,7 @@
         <?php include "main-menu.php"; ?>
         
 <!-- About Section Starts Here -->
-        <h1>14 Feet Truck Service In New Delhi</h1>
+        <h1 class="heading-1">14 Feet Truck Service In New Delhi</h1>
         <div class="about-section">
                 <div class="about-content">
                     <div class="about-image">

@@ -134,8 +134,45 @@ body {
     height: 20px;
     margin-top: -5px;
 }
-/*  About CSS for Desktop Starts Here */
+
   }
+  /*  About CSS for Desktop Starts Here */
+.heading-1
+    {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 3rem;
+        font-weight: 700;
+        line-height: 1.2;
+        color: #2b3a91;
+        text-align: center;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+        margin: 0.5em 0;
+    }
+    
+    /* Responsive adjustments */
+    @media (max-width: 1200px) {
+        .heading-1 {
+            font-size: 2.5rem;
+        }
+    }
+    
+    @media (max-width: 768px) {
+        .heading-1 {
+            font-size: 2rem;
+        }
+    }
+    
+    @media (max-width: 480px) {
+        .heading-1 {
+            font-size: 1.5rem;
+        }
+    }
+    
+    
+
+
+
   .about-section {
     display: flex;
     width: 100%w;
