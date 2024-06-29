@@ -29,10 +29,10 @@
 
     <meta name="google-site-verification" content="uGLmKuc7Gw-ExsjaWgi4eZbwDkwHbmuMfo1S6Gkgny8" />
     
-    <link rel="stylesheet" href="/css/destop.css">
-    <link rel="stylesheet" href="/css/laptop.css">
-    <link rel="stylesheet" href="/css/tablets.css">
-    <link rel="stylesheet" href="/css/mobile.css">
+    <link rel="stylesheet" href="css/mobile.css">
+    <link rel="stylesheet" href="css/tablets.css">
+    <link rel="stylesheet" href="css/laptop.css">
+    <link rel="stylesheet" href="css/desktop.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 </head>
 
@@ -52,7 +52,7 @@
                     </div>
                     <div class="about-text">
                         <div class="about-heading">
-                            <h1>14 Feet Truck Transport Service New Delhi</h1>
+                            <h1 class="heading-1">14 Feet Truck Transport Service New Delhi</h1>
                         </div>
                         <div class="about-para">
                             <p>

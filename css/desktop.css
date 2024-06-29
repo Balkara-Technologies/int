@@ -11,7 +11,7 @@ body {
 }
  /*    --------------------------------- css for desktop & above devices starts here for devices 1024px to 1440px ---------------------------*/
 
-@media only screen and (min-width: 1024px) {
+@media only screen and (min-width: 1200px) {
 
 * {
         margin: 0;
@@ -55,12 +55,6 @@ body {
 
 /* Top Nav Bar & Sectiobn CSS Ends Here */
 
-/* Container CSS Starts Here.............. */
-.container {
-    width: clamp(1024px, 100%, 1440px);
-    margin: auto;
-    
-}
 /* Middle Menu CSS Starts Here ................... */
 
 #middle-menu {
@@ -137,37 +131,34 @@ body {
 
   }
   /*  About CSS for Desktop Starts Here */
-.heading-1
+  
+/* Container CSS Starts Here.............. */
+.container {
+    width: clamp(1024px, 100%, 1440px);
+    margin: auto;
+    
+}
+ .container > h1 
+ 
     {
         font-family: Verdana, Arial, Helvetica, sans-serif;
         font-size: 3rem;
         font-weight: 700;
         line-height: 1.2;
-        color: #2b3a91;
+        color: #2c3a86;
         text-align: center;
         letter-spacing: 0.05em;
         text-transform: uppercase;
         margin: 0.5em 0;
     }
     
-    /* Responsive adjustments */
-    @media (max-width: 1200px) {
+    /* Responsive adjustments  */
+     @media (max-width: 1200px) {
         .heading-1 {
             font-size: 2.5rem;
         }
     }
-    
-    @media (max-width: 768px) {
-        .heading-1 {
-            font-size: 2rem;
-        }
-    }
-    
-    @media (max-width: 480px) {
-        .heading-1 {
-            font-size: 1.5rem;
-        }
-    }
+       
     
     
 

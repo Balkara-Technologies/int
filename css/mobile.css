@@ -123,3 +123,9 @@
 
        
 }
+
+@media (max-width: 480px) {
+    .heading-1 {
+        font-size: 1.5rem;
+    }
+}
