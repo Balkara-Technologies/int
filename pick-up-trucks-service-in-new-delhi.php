@@ -66,7 +66,7 @@
              </div>
         </div>
         <div class="card-img">
-            <img src="images/" alt="Image 3">
+            <img src="images/pick-up-trucks/pickup3.webp" alt="Image 3">
             <h2>60 Feet Truck</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias neque, odit tempore voluptates, delectus doloremque soluta nesciunt assumenda quidem voluptatum sunt quam atque? At id ipsa eius eaque qui labore!</p>
             <hr>
@@ -83,7 +83,7 @@
         <!-- About Section Starts Here -->
         <div class="about-section">
           <div class="about-image">
-            <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
+            <img src="images/pick-up-trucks/pickup4.png" alt="National-Transport-Company-New-Delhi">
           </div>
           <div class="about-text">
             <div class="about-heading">
@@ -128,7 +128,7 @@
             </div>
                     </div>
                 </div> <div class="about-image">
-                    <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
+                    <img src="images/pick-up-trucks/pickup5.jpg" alt="National-Transport-Company-New-Delhi">
                 </div>
                
                 
@@ -139,7 +139,7 @@
         <div class="about-section">
             <div class="about-content">
             </div> <div class="about-image">
-                    <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
+                    <img src="images/pick-up-trucks/pickup6.webp" alt="National-Transport-Company-New-Delhi">
                 </div>
                
                 <div class="about-text">
@@ -183,7 +183,7 @@
             </div>
                     </div>
                 </div> <div class="about-image">
-                    <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
+                    <img src="images/pick-up-trucks/pickup6.webp" alt="National-Transport-Company-New-Delhi">
                 </div>
                
                 
@@ -193,7 +193,7 @@
 
         <div class="about-section">
             <div class="about-content"></div> <div class="about-image">
-                    <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
+                    <img src="images/pick-up-trucks/pickup7.png" alt="National-Transport-Company-New-Delhi">
                 </div>
                
                 <div class="about-text">
@@ -237,7 +237,7 @@
             </div>
                     </div>
                 </div> <div class="about-image">
-                    <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
+                    <img src="images/pick-up-trucks/pickup8.jpg" alt="National-Transport-Company-New-Delhi">
                 </div>
                
                 
@@ -248,7 +248,7 @@
         <div class="about-section">
             <div class="about-content">
             </div> <div class="about-image">
-                    <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
+                    <img src="images/pick-up-trucks/pickup9.jpg" alt="National-Transport-Company-New-Delhi">
                 </div>
                 <div class="about-text">
                     <div class="about-heading">
@@ -291,7 +291,7 @@
             </div>
                     </div>
                 </div> <div class="about-image">
-                    <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
+                    <img src="images/pick-up-trucks/pickup10.jpg" alt="National-Transport-Company-New-Delhi">
                 </div>
                
                 
