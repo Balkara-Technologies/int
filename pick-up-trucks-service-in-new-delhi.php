@@ -45,7 +45,7 @@
         <div class="card-container-img">
 
         <div class="card-img">
-            <img src="images/car-carrier-images/cartrans.jpg" alt="Image 1">
+            <img src="images/pick-up-trucks/pickup1.jpg" alt="Image 1">
             <h2>40 Feet Truck</h2>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis deleniti exercitationem laboriosam nisi, adipisci iure dicta dolorem atque eaque saepe odit ex animi natus non nobis necessitatibus totam quos eveniet?
             </p>
@@ -56,7 +56,7 @@
              </div>
         </div>
         <div class="card-img">
-            <img src="images/car-carrier-images/cartrans.jpg" alt="Image 2">
+            <img src="images/pick-up-trucks/pickup2.webp" alt="Image 2">
             <h2>50 Feet Truck</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto impedit facere quas quibusdam ipsam ducimus expedita blanditiis a eos aliquid. Unde repellat beatae saepe quo, ad non laboriosam impedit modi!</p>
             <hr>
@@ -66,7 +66,7 @@
              </div>
         </div>
         <div class="card-img">
-            <img src="images/car-carrier-images/cartrans.jpg" alt="Image 3">
+            <img src="images/" alt="Image 3">
             <h2>60 Feet Truck</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias neque, odit tempore voluptates, delectus doloremque soluta nesciunt assumenda quidem voluptatum sunt quam atque? At id ipsa eius eaque qui labore!</p>
             <hr>
