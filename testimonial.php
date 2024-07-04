@@ -5,7 +5,7 @@
             <div class="cards">
                 <div class="card">
                     <div class="image-container">
-                        <img src="images/car-carrier-images/cartrans.jpg" alt="Andrew Rathore">
+                        <img src="images/pick-up-trucks/pickup6.webp" alt="Andrew Rathore">
                     </div>
                     <div class="testimonial-content">
                         <p class="name">Andrew Rathore</p>
@@ -26,7 +26,7 @@
             <div class="cards">
                 <div class="card">
                     <div class="image-container">
-                        <img src="images/car-carrier-images/cartrans.jpg" alt="Andrew Rathore">
+                        <img src="images/pick-up-trucks/pickup8.jpg" alt="Andrew Rathore">
                     </div>
                     <div class="testimonial-content">
                         <p class="name">Andrew Rathore</p>
@@ -48,7 +48,7 @@
             <div class="cards">
                 <div class="card">
                     <div class="image-container">
-                        <img src="images/car-carrier-images/cartrans.jpg" alt="Andrew Rathore">
+                        <img src="images/pick-up-trucks/pickup7.png" alt="Andrew Rathore">
                     </div>
                     <div class="testimonial-content">
                         <p class="name">Andrew Rathore</p>
