@@ -40,14 +40,15 @@
 
         <?php include "middle-menu.php"; ?>
         <?php include "main-menu.php"; ?>
-        <h1 class="heading-one slash"><span></span> <mark>  Truck Serv</mark>ice in New Delhi</h1>
+        <h1 class="heading-one slash">Pickup Truck Services in New Delhi</h1>
 
         <div class="card-container-img">
 
         <div class="card-img">
             <img src="images/car-carrier-images/cartrans.jpg" alt="Image 1">
-            <h2>40 Feet Truck</h2>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis deleniti exercitationem laboriosam nisi, adipisci iure dicta dolorem atque eaque saepe odit ex animi natus non nobis necessitatibus totam quos eveniet?
+            <h2>Open Body Pickup Truck</h2>
+            <p>Bolero Picup Truck Services In New Delhi Is Provided By National Transport Services New Delhi. Our Company Provide Close Body Pickup Trucks For 
+                Household Goods Transporation & Commercial Goods Transport Services In New Delhi.
             </p>
             <hr>
             <div class="row button-row">
@@ -57,8 +58,9 @@
         </div>
         <div class="card-img">
             <img src="images/car-carrier-images/cartrans.jpg" alt="Image 2">
-            <h2>50 Feet Truck</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto impedit facere quas quibusdam ipsam ducimus expedita blanditiis a eos aliquid. Unde repellat beatae saepe quo, ad non laboriosam impedit modi!</p>
+            <h2>Close Body Pikcup Truck</h2>
+            <p>Bolero Picup Truck Services In New Delhi Is Provided By National Transport Services New Delhi. Our Company Provide Close Body Pickup Trucks For 
+            Household Goods Transporation & Commercial Goods Transport Services In New Delhi.</p>
             <hr>
             <div class="row button-row">
               <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
@@ -67,8 +69,9 @@
         </div>
         <div class="card-img">
             <img src="images/car-carrier-images/cartrans.jpg" alt="Image 3">
-            <h2>60 Feet Truck</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias neque, odit tempore voluptates, delectus doloremque soluta nesciunt assumenda quidem voluptatum sunt quam atque? At id ipsa eius eaque qui labore!</p>
+            <h2>Platform Pickup Truck</h2>
+            <p>Bolero Picup Truck Services In New Delhi Is Provided By National Transport Services New Delhi. Our Company Provide Close Body Pickup Trucks For 
+            Household Goods Transporation & Commercial Goods Transport Services In New Delhi.</p>
             <hr>
             <div class="row button-row">
               <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
