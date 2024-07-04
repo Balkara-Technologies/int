@@ -33,18 +33,15 @@
     gtag('config', 'G-M9CLT3YKRB');
     </script>
     <meta name="google-site-verification" content="_eQyB0w0v658xOVmNu4k14G7PCWaakkg1aXKIdAQmYE" />
-
+    
     <link rel="stylesheet" href="css/mobile.css">
-    <link rel="stylesheet" href="css/tablets.css">
+    <link rel="stylesheet" href="css/tablet.css">
     <link rel="stylesheet" href="css/laptop.css">
     <link rel="stylesheet" href="css/desktop.css">
-  
-
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 </head>
 <body>
- 
-        <?php include "top-menu.php"; ?>
+        <?php include "top-menu.php"; ?> 
     <div class="container">
         <?php include "middle-menu.php"; ?>
         <?php include "main-menu.php"; ?>
@@ -52,8 +49,9 @@
         <?php include "services.php"; ?>
         <?php include "testimonial.php"; ?>
         <?php include "recent-searches.php"; ?>
-    </div>    
-
+    </div>  
+    <div>    
+</div>  
     <?php include "footer.php"; ?>
 </body>
 </html>

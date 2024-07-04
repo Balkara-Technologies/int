@@ -57,9 +57,7 @@
                             Major Cities Of India Nepal Bhutan Bangladesh & All North East Region.
                         </p>
                     </div>
-                </div>
-            </div>
-            <div class="about-getquote">        
+                </div>      
                 <?php include "enquiry-form.php"; ?>
             </div>
         </div>
@@ -126,7 +124,7 @@
                 <p class="ms-3 text-center">National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India. National Transport Company Is Regarded As The Best Online Truck Booking Company In India. Our Company Is Best In Dwarka New Delhi. National Transport Provides Open Body Trucks, Close Body Trucks, Trailer Trucks, ODC Cargo Trucks. We Have Completed Many 3PL Projects With MNC Companies. Time Bound Delivery With Zero Damage Is Our Companies Top Priority For Our Valued Customers. Our Professional Staff Makes It Possible To Deliver Time Bound Cargo Reach Destination On Time. Hassel Free Home And Office Shifting Is One Of Our Best Services We Provide Across Indian Cities And Abroad.</p>
             </div>
         </div>
-        <div class="row mt-5 p-0 m-0">
+        <!-- <div class="row mt-5 p-0 m-0">
     <div class="col-12 d-flex justify-content-center">
         <h1>Testimonial</h1>
     </div>
@@ -259,8 +257,11 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
+<?php include "testimonial.php"; ?>
+<?php include "recent-searches.php"; ?>
+<?php include "footer.php"; ?>
     </div>
-    <?php include "footer.php"; ?>
+   
 </body>
 </html>

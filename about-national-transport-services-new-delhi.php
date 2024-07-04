@@ -28,7 +28,7 @@
     <meta name="google-site-verification" content="uGLmKuc7Gw-ExsjaWgi4eZbwDkwHbmuMfo1S6Gkgny8" />
     
     <link rel="stylesheet" href="css/mobile.css">
-    <link rel="stylesheet" href="css/tablets.css">
+    <link rel="stylesheet" href="css/tablet.css">
     <link rel="stylesheet" href="css/laptop.css">
     <link rel="stylesheet" href="css/desktop.css">
   
@@ -62,17 +62,18 @@
                         </p>
                     </div>
                 </div>
-            </div>
-            <div class="about-getquote">        
                 <?php include "enquiry-form.php"; ?>
             </div>
+                  
+
         </div>
 
 <!-- About Section Ends Here -->
 
 <!-- Recent Searches Section Starts Here -->
 
-        <div>
+        <div  class="useful links">
+            <h1><span></span><mark>Useful lin</mark>ks : -</h1>
             <a href="#">national transport delhi</a>
             <a href="#">national transport company</a>
             <a href="#">truck booking in delhi</a>
@@ -81,6 +82,7 @@
         </div>
         
 <!-- Recent Searches Section Ends Here -->
+ 
 
         <div class="row mt-4 ms-5 ps-5 p-0 m-0">
             <div class="col-10">
@@ -309,7 +311,11 @@
                 <img src="images/zero-degree-platform-truck.jpg" alt="this is about page image-4" class="ms-3" style="width: 500px; height:400px">
             </div>
         </div>
-        <div class="row mt-5 p-0 m-0">
+<!-- testimonial start from  here  -->
+<?php  include "testimonial.php" ?>
+
+
+        <!-- <div class="row mt-5 p-0 m-0">
             <div class="col-12 d-flex justify-content-center">
                 <h1><span>Testimonial</span></h1>
             </div>
@@ -366,8 +372,8 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-1" style="margin-top: 150px;"><i class="fa fa-angle-right pt-4 fs-5 fw-bold" aria-hidden="true"></i></div>
+            </div> -->
+    <!-- <div class="col-1" style="margin-top: 150px;"><i class="fa fa-angle-right pt-4 fs-5 fw-bold" aria-hidden="true"></i></div>
         </div>
         <div class="row mt-5 m-0 p-0 justify-content-around">
             <div class="col-5 border border-dark m-0 p-0 ">
@@ -444,7 +450,8 @@
             </div>
         </div>
         
-    </div>
+    </div> -->
+    <?php include "recent-searches.php" ?>
     <?php include "footer.php"; ?>
 </body>
 

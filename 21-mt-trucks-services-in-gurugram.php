@@ -49,11 +49,11 @@
                 </div>
                 <div class="about-text">
                     <div class="about-heading">
-                        <h1>21 MT Truck Transport New Delhi NCR</h1>
+                        <h1>21 MT Truck Transport New Delhi</h1>
                     </div>
                     <div class="about-para">
                         <p>
-                            21 MT Trucks Services In Gurugram NCR Region Is Now Provided By National Transport Services. Our Truck Services For 21 MT Open Body Trucks & Close Body
+                            21 MT Trucks Services In Gurugram Is Now Provided By National Transport Services. Our Truck Services For 21 MT Open Body Trucks & Close Body
                             Trucks Is Now Availble 24x7 For Online Truck Booking In Gurugram. Our Company Provide 21 MT Truck For All Over India For Industrial
                             Commercial & Household Goods Transportation Services From Gurugram Haryana.
                         </p>

@@ -58,8 +58,6 @@
                         </p>
                     </div>
                 </div>
-            </div>
-            <div class="about-getquote">        
                 <?php include "enquiry-form.php"; ?>
             </div>
         </div>
@@ -302,7 +300,7 @@
                 <img src="images/zero-degree-platform-truck.jpg" alt="this is about page image-4" class="ms-3" style="width: 500px; height:400px">
             </div>
         </div>
-        <div class="row mt-5 p-0 m-0">
+        <!-- <div class="row mt-5 p-0 m-0">
             <div class="col-12 d-flex justify-content-center">
                 <h1><span>Testimonial</span></h1>
             </div>
@@ -435,8 +433,12 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
+        
+        <?php include "testimonial.php"; ?>
+        <?php include "recent-searches.php"; ?>
+        <?php include "footer.php"; ?>
     </div>
-    <?php include "footer.php"; ?>
+
 </body>
 </html>
