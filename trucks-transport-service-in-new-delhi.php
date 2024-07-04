@@ -60,9 +60,7 @@
                             And All Hilly Regions.
                         </p>
                     </div>
-                </div>
-            </div>
-            <div class="about-getquote">        
+                </div>       
                 <?php include "enquiry-form.php"; ?>
             </div>
         </div>
@@ -303,7 +301,7 @@
                     </div>
                 </div>
 
-                <div class="col-4 ms-5 ps-5 p-0 m-0">
+                <!-- <div class="col-4 ms-5 ps-5 p-0 m-0">
                     <img src="images/zero-degree-platform-truck.jpg" alt="this is about page image-4" class="ms-3" style="width: 500px; height:400px">
                 </div>
             </div>
@@ -440,9 +438,12 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
+            <?php include "testimonial.php"; ?>
+            <?php include "recent-searches.php"; ?>
+            <?php include "footer.php"; ?>
     </div>
-    <?php include "footer.php"; ?>
+  
 </body>
 
 </html>

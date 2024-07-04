@@ -1,7 +1,4 @@
-/* ------------------ CSS for Tablet Starts Here ------------------------------------------------------------------------------------------- */
-
-
-@media only screen and (min-width:425px) and (max-width:768px) {
+@media only screen and (min-width: 425px) and (max-width: 768px) {
     * {
         margin: 0;
         padding: 0;
@@ -9,11 +6,13 @@
         font-family: Arial, Helvetica, sans-serif;
     }
 
+    /* Top Nav Bar & Section CSS */
     #top-section {
-        width: clamp(426px, 100%, 768px);
+        width: 100%;
         margin: auto;
         padding: clamp(4px, .75vw, 16px);
         display: flex;
+        justify-content: space-between;
         flex-wrap: wrap;
     }
 
@@ -27,63 +26,53 @@
         margin-bottom: 5px;
     }
 
-    #mob-nav {
-        width: 30%;
+    #mob-nav, #login-nav {
+        width: 48%;
         background-color: #0C356A;
         margin: 1px 0;
         padding: 2px 0;
     }
 
-    #login-nav {
-        width: 70%;
-        background-color: #0C356A;
-        margin: 1px 0;
-        padding: 2px 0;
-    }
-
-    #login-nav>li>a:link {
+    #login-nav > li > a:link {
         color: #fff;
     }
 
-    .top-nav>li {
+    .top-nav > li {
         list-style-type: none;
     }
 
-    .top-nav>li>a:link {
+    .top-nav > li > a:link {
         text-decoration: none;
         color: #0C356A;
         padding: clamp(1px, .4vw, 8px);
         display: block;
-        font-size: clamp(14px, 1vw, 16px);
+        font-size: clamp(12px, 1vw, 14px);
     }
 
     #mob-number {
         font-weight: bold;
-        font-size: clamp(16px, 1vw, 16px);
+        font-size: clamp(12px, 1vw, 16px);
         color: #fff;
     }
 
-    .top-nav>li>a:hover {
+    .top-nav > li > a:hover {
         background-color: #0C356A;
         color: #fff;
     }
 
-    /* Top Nav Bar & Sectiobn CSS Ends Here............ Tablet Media Query  */
-
-    /* Tablet Container CSS Starts Here */
+    /* Container CSS */
     .container {
-        width: clamp(426px, 100%, 768px);
+        width: 100%;
         margin: auto;
     }
 
-    /* Tablet Header CSS Starts Here */
-
+    /* Header CSS */
     #middle-menu {
         display: flex;
         justify-content: space-between;
     }
 
-    #middle-menu>div {
+    #middle-menu > div {
         display: flex;
         justify-content: center;
     }
@@ -95,13 +84,13 @@
         align-items: center;
     }
 
-    #logo-div>a {
+    #logo-div > a {
         display: flex;
         flex-direction: column;
         text-decoration: none;
     }
 
-    #logo-div>a>p:first-child {
+    #logo-div > a > p:first-child {
         padding: 0;
         margin: 0;
         color: #0C356A;
@@ -110,7 +99,7 @@
         line-height: 80%;
     }
 
-    #logo-div>a>p:nth-of-type(2) {
+    #logo-div > a > p:nth-of-type(2) {
         padding: 0;
         margin: 0;
         color: #0C356A;
@@ -122,60 +111,210 @@
         width: 40vw;
     }
 
-    .book-now-img>a>img {
+    .book-now-img > a > img {
         width: clamp(40px, 8vw, 80px);
         border-radius: 50%;
     }
 
-    /* middle logo & book now images middle menu for Tablet  css ends here */
-
-
-}
-
-@media (max-width: 768px) {
-
-    .content-wrapper,
-    .blog-wrapper,
-    .testimonial-wrapper {
+    /* About Section */
+    .about-section {
+        display: flex;
         flex-direction: column;
         align-items: center;
+        text-align: center;
+        padding: 20px;
     }
 
-    .image-left,
-    .image-right {
+    .about-text,
+    .about-image {
         width: 100%;
-        margin-bottom: 20px;
     }
 
-    .text {
-        padding: 0;
-    }
-
-    .blog-post,
-    .testimonial {
-        max-width: 100%;
-    }
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    .about-section {
-        flex-direction: column;
-    }
-
-    .about-image,
     .about-text {
-        flex: 1 1 100%;
+        order: 2;
+        padding: 10px;
+    }
+
+    .about-image {
+        order: 1;
+        margin-bottom: 10px;
+    }
+
+    .about-image img {
+        width: 50%;
+        height: auto;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .icon {
+        width: 8%;
+        height: auto;
+    }
+    span {
+
+        border-left: 7px solid #4c4e80;
+    }
+    mark {
+        color: #0d3257;
+        background-color: whitesmoke;
+    }
+
+    .heading-two {
+        font-size: 1.8em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .about-heading h1 {
+        font-size: 1.5em;
+    }
+
+    .about-para p {
+        font-size: 0.9em;
     }
 
     .button-row {
+        display: flex;
         flex-direction: column;
+        align-items: center;
+        margin-top: 10px;
     }
 
     .four-btn {
+        width: 100%;
+        margin: 5px 0;
+    }
+
+    .four-btn a {
+        padding: 8px 10px;
+        width: 100%;
+        text-align: center;
+        background-color: #133250;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 5px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .four-btn a:hover {
+        color: #0d3257;
+        background-color: whitesmoke;
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+        border: 1px solid #0b0b0b;
+        border-radius: 7px;
+    }
+
+    /* Footer CSS */
+    .footer-1 {
+        background-color: #240725;
+        color: white;
+        padding: 20px 10px;
+    }
+
+    .footer-1 .container-1 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        text-align: center;
+    }
+
+    .footer-column-1 {
+        flex: 1;
+        margin: 10px;
+        min-width: 150px;
+    }
+
+    .footer-column-1 h3 {
+        border-bottom: 2px solid #f4f4f4;
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+    }
+
+    .footer-column-1 ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    .footer-column-1 ul li {
         margin: 10px 0;
     }
-}
-/* ------------------ CSS for Tablet Ends Here ----------------------------------------------------------------------------------------------- */
 
-/* Responsive Design */
+    .footer-column-1 ul li a {
+        color: white;
+        text-decoration: none;
+    }
+
+    .footer-column-1 ul li a:hover {
+        text-decoration: underline;
+    }
+
+    .social-media-1 {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+    .social-media-1 a {
+        color: white;
+        font-size: 20px;
+        margin: 0 10px;
+    }
+
+        .recent-content-wrapper {
+            flex-direction: column;
+            align-items: center;
+            
+        }
+
+    /* Popular Searches Section */
+    .popular-searches-1 {
+        background-color: #f4f4f4;
+        color: #333;
+        padding: 20px 0;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .popular-searches-1 h3 {
+        margin-bottom: 10px;
+        font-size: 1.5em;
+        color: #555;
+    }
+
+    .popular-searches-1 a {
+        color: #333;
+        margin: 0 10px;
+        text-decoration: none;
+    }
+
+    .popular-searches-1 a:hover {
+        text-decoration: underline;
+    }
+
+    /* General Styles */
+    .container-1 {
+        max-width: 1000px;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+
+    .body-1 {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+}
+@media (max-width: 768px) {
+    .card {
+        width: calc(50% - 20px);
+    }
+}
+
+@media (max-width: 480px) {
+    .card {
+        width: 100%;
+    }
+}

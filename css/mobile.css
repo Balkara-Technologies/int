@@ -1,19 +1,17 @@
-/* css for mobile devices max device width 425px   ( device width between 320px to 425px ) starts here -----------------------------------------------*/
+/* CSS for mobile devices with max device width 425px (device width between 320px to 425px) starts here -----------------------------------------------*/
 
-
-@media only screen and (min-width: 320px) and (max-width:425px) {
+@media only screen and (min-width: 320px) and (max-width: 425px) {
     * {
-        margin: 0;
+        margin: 4px;
         padding: 0;
         box-sizing: border-box;
         font-family: Arial, Helvetica, sans-serif;
     }
+    
 
-    /* Top Nav Bar & Section CSS Starts Here */
-
-
+    /* Top Nav Bar & Section CSS */
     #top-section {
-        width: clamp(360px, 100%, 425px);
+        width: 100%;
         margin: auto;
         padding: clamp(4px, .75vw, 16px);
         display: flex;
@@ -30,29 +28,22 @@
         margin-bottom: 5px;
     }
 
-    #mob-nav {
-        width: 30%;
+    #mob-nav, #login-nav {
+        width: 100%;
         background-color: #0C356A;
         margin: 1px 0;
         padding: 2px 0;
     }
 
-    #login-nav {
-        width: 70%;
-        background-color: #0C356A;
-        margin: 1px 0;
-        padding: 2px 0;
-    }
-
-    #login-nav>li>a:link {
+    #login-nav > li > a:link {
         color: #fff;
     }
 
-    .top-nav>li {
+    .top-nav > li {
         list-style-type: none;
     }
 
-    .top-nav>li>a:link {
+    .top-nav > li > a:link {
         text-decoration: none;
         color: #0C356A;
         padding: clamp(1px, .4vw, 8px);
@@ -66,27 +57,24 @@
         color: #fff;
     }
 
-    .top-nav>li>a:hover {
+    .top-nav > li > a:hover {
         background-color: #0C356A;
         color: #fff;
     }
 
-    /* Top Nav Bar & Sectiobn CSS Ends Here*/
-
-    /* Mobile Container CSS Starts Here */
+    /* Container CSS */
     .container {
-        width: clamp(360px, 100%, 425px);
+        width: 100%;
         margin: auto;
     }
 
-    /* Mobile Header CSS Starts Here */
-
+    /* Header CSS */
     #middle-menu {
         display: flex;
         justify-content: space-between;
     }
 
-    #middle-menu>div {
+    #middle-menu > div {
         display: flex;
         justify-content: center;
     }
@@ -98,13 +86,13 @@
         align-items: center;
     }
 
-    #logo-div>a {
+    #logo-div > a {
         display: flex;
         flex-direction: column;
         text-decoration: none;
     }
 
-    #logo-div>a>p:first-child {
+    #logo-div > a > p:first-child {
         padding: 0;
         margin: 0;
         color: #0C356A;
@@ -113,7 +101,7 @@
         line-height: 80%;
     }
 
-    #logo-div>a>p:nth-of-type(2) {
+    #logo-div > a > p:nth-of-type(2) {
         padding: 0;
         margin: 0;
         color: #0C356A;
@@ -125,22 +113,59 @@
         width: 40vw;
     }
 
-    .book-now-img>a>img {
+    .book-now-img > a > img {
         width: clamp(40px, 8vw, 80px);
         border-radius: 50%;
     }
 
-    /* middle logo & book now images middle menu for Tablet  css ends here */
+    /* About Section CSS */
+    .about-section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
 
+    .about-text,
+    .about-image {
+        width: 100%;
+    }
 
+    .about-text {
+        order: 2;
+        padding: 10px;
+    }
 
-    /* css for mobile devices max device width 425px   ( device width between 320px to 425px ) Ends here */
+    .about-image {
+        order: 1;
+    }
 
+    .about-image img {
+        width: 100%;
+        height: auto;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        margin-bottom: 10px;
+    }
 
-}
-@media (max-width: 480px) {
-    .heading-one {
+    .icon {
+        width: 8%;
+        height: auto;
+    }
+
+    .heading-two {
         font-size: 1.8em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    span {
+
+        border-left: 7px solid #4c4e80;
+    }
+    mark {
+        color: #0d3257;
+        background-color: whitesmoke;
     }
 
     .about-heading h1 {
@@ -151,7 +176,100 @@
         font-size: 0.9em;
     }
 
+    .button-row {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .four-btn {
+        width: 100%;
+        margin: 5px 0;
+    }
+
     .four-btn a {
         padding: 8px 10px;
+        width: 100%;
+        text-align: center;
+    }
+
+    
+
+    .cards {
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+    /* Footer CSS */
+    .footer-1 {
+        background-color: #240725;
+        color: white;
+        padding: 40px 0;
+    }
+
+    .footer-1 .container-1 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .footer-column-1 {
+        flex: 1;
+        margin: 10px;
+        min-width: 200px;
+    }
+
+    .footer-column-1 h3 {
+        border-bottom: 2px solid #f4f4f4;
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+    }
+
+    .footer-column-1 ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    .footer-column-1 ul li {
+        margin: 10px 0;
+    }
+
+    .footer-column-1 ul li a {
+        color: white;
+        text-decoration: none;
+    }
+
+    .footer-column-1 ul li a:hover {
+        text-decoration: underline;
+    }
+
+    .social-media-1 {
+        display: flex;
+        justify-content: flex-start;
+    }
+
+    .social-media-1 a {
+        color: white;
+        font-size: 20px;
+        margin-right: 15px;
+    }
+
+    .popular-searches-1 {
+        background-color: #fff;
+        color: #333;
+        padding: 20px 0;
+        text-align: center;
+    }
+
+    .popular-searches-1 a {
+        color: #333;
+        margin: 0 10px;
+        text-decoration: none;
+    }
+
+    .popular-searches-1 a:hover {
+        text-decoration: underline;
     }
 }
+

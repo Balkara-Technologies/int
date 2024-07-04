@@ -59,9 +59,7 @@
                             India Or Outside India. We Provide Regular Services To Bhutan Bangladesh Nepal North East Region Leh Manali And Other Hilly Areas.
                         </p>
                     </div>
-                </div>
-            </div>
-            <div class="about-getquote">        
+                </div>      
                 <?php include "enquiry-form.php"; ?>
             </div>
         </div>
@@ -387,7 +385,7 @@
             </div>
         </div>
         <!-- testimoniyal -->
-        <div class="row mt-5 p-0 m-0">
+        <!-- <div class="row mt-5 p-0 m-0">
             <div class="col-12 d-flex justify-content-center">
                 <h1><span>Testimonial</span></h1>
             </div>
@@ -520,9 +518,11 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
+        <?php include "testimonial.php"; ?>
+        <?php include "recent-searches.php"; ?>
+        <?php include "footer.php"; ?>
     </div>
-    <?php include "footer.php"; ?>
 </body>
 
 </html>

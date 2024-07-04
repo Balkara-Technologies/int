@@ -58,9 +58,7 @@
                             Trailers For ODC Cargo Movement Are Designed Specially For Hilly Region Transporation Of Bulky & Heavy Cargo.
                         </p>
                     </div>
-                </div>
-            </div>
-            <div class="about-getquote">        
+                </div>      
                 <?php include "enquiry-form.php"; ?>
             </div>
         </div>
@@ -76,8 +74,10 @@
 
         </div>
 <!-- Recent Searches Section Ends Here -->
-
+<?php include "testimonial.php"; ?>
+<?php include "recent-searches.php"; ?>
+<?php include "footer.php"; ?>
     </div>     
-    <?php include "footer.php"; ?>
+   
 </body>
 </html>

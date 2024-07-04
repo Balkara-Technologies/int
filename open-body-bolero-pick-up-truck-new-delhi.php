@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Low Bed Trailer Service In New Delhi | Call +91-9289218921</title> 
+    <title>open body bolero pick up truck new delhi  | Call +91-9289218921</title> 
     <meta name="description" content="Low Bed Trailer Services Now Availabel In New Delhi For ODC Transportation. Call 9289218921 For All Types Of Low Bed Trailer Truck Services In New Delhi.
     Our Company National Transport Services Provides 40 Feet Long & 60 Feet Long Low Bed Trailers For Over Dimensional Cargo Transportation In New Delhi 
     Gurugram Noida Ghaziabad Faridabad And All Delhi NCR Region. Our services One of The Fastest Transportation services in All over india.">
@@ -36,11 +36,13 @@
 
 <body>
     <?php include "top-menu.php"; ?>
-    <div class="container">
+   
         <?php include "middle-menu.php"; ?>
         <?php include "main-menu.php"; ?>
         <h1 class="heading-one slash"><span></span> <mark>  Truck Serv</mark>ice in New Delhi</h1>
 
+        <div class="container">
+       
         <div class="card-container-img">
 
         <div class="card-img">
@@ -76,7 +78,6 @@
            
         </div>
     </div>
-
 
 
 

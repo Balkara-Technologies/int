@@ -66,9 +66,7 @@
                             50 Feet Long & 90 Feet Long Trailers For Commercial Movements.
                         </p>
                     </div>
-                </div>
-            </div>
-            <div class="about-getquote">        
+                </div>       
                 <?php include "enquiry-form.php"; ?>
             </div>
         </div>

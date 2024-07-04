@@ -60,10 +60,8 @@
                         </p>
                     </div>
                 </div>
-            </div>
-            <div class="about-getquote">        
                 <?php include "enquiry-form.php"; ?>
-            </div>
+            </div>  
         </div>
 
 <!-- About Section Ends Here -->
@@ -272,7 +270,7 @@
             </div>
         </div>
 
-        <div class="row mt-5 p-0 m-0">
+        <!-- <div class="row mt-5 p-0 m-0">
             <div class="col-12 d-flex justify-content-center">
                 <h1><span>Testimonial</span></h1>
             </div>
@@ -405,9 +403,12 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
+        </div> -->
+   
+    <?php include "testimonial.php"; ?>
+    <?php include "recent-searches.php"; ?>
     <?php include "footer.php"; ?>
+    </div>
 </body>
 
 </html>
