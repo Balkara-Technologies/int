@@ -39,33 +39,265 @@
     <div class="container">
         <?php include "middle-menu.php"; ?>
         <?php include "main-menu.php"; ?>
+        <h1 class="heading-one slash"><span></span> <mark>  Truck Serv</mark>ice in New Delhi</h1>
+
+        <div class="card-container-img">
+
+        <div class="card-img">
+            <img src="images/car-carrier-images/cartrans.jpg" alt="Image 1">
+            <h2>40 Feet Truck</h2>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis deleniti exercitationem laboriosam nisi, adipisci iure dicta dolorem atque eaque saepe odit ex animi natus non nobis necessitatibus totam quos eveniet?
+            </p>
+            <hr>
+            <div class="row button-row">
+              <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
+             </div>
+        </div>
+        <div class="card-img">
+            <img src="images/car-carrier-images/cartrans.jpg" alt="Image 2">
+            <h2>50 Feet Truck</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto impedit facere quas quibusdam ipsam ducimus expedita blanditiis a eos aliquid. Unde repellat beatae saepe quo, ad non laboriosam impedit modi!</p>
+            <hr>
+            <div class="row button-row">
+              <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
+             </div>
+        </div>
+        <div class="card-img">
+            <img src="images/car-carrier-images/cartrans.jpg" alt="Image 3">
+            <h2>60 Feet Truck</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias neque, odit tempore voluptates, delectus doloremque soluta nesciunt assumenda quidem voluptatum sunt quam atque? At id ipsa eius eaque qui labore!</p>
+            <hr>
+            <div class="row button-row">
+              <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
+             </div>
+           
+        </div>
+    </div>
+
+
+
+
+        <div class="container">
+        <!-- About Section Starts Here -->
+        <div class="about-section">
+          <div class="about-image">
+            <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
+          </div>
+          <div class="about-text">
+            <div class="about-heading">
+              <h1 class="heading-two "><img class="icon" src="icons/loc.png" alt="location">Low Bed Trailer Service In New Delhi</h1>
+             
+            </div>
+            <div class="about-para">
+              <p>
+              Low Bed Trailer Truck Services For Large And Heavy Goods Is Provided By National Transport Services New Delhi.
+                            Our Company Provides 40 Feet Low Bed Trailer Truck, 50 Feet Long Low Bed Trailer Truck, 60 Feet Low Bed Trailer Truck
+                            And Extendable Large Low Bed Trailers With Carrying Capacity Upto 200 MT. Our Company Is One Of The Pioneering Company
+                            In Long Haul Cargo Movement Of Over Size Goods Like Industrial Boiler, Transfarmers, Metro Coaches And Train Engines
+                            Transporation In New Delhi NCR Region. </p>
+            </div>
+            <div class="row button-row">
+              <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Enquiry</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Read More</a></div>
+            </div>
+          </div>
+        </div>
+
 
 <!-- About Section Starts Here -->
 
         <div class="about-section">
             <div class="about-content">
-                <div class="about-image">
+               
+                <div class="about-text">
+                    <div class="about-heading">
+                        <h1><img class="icon" src="icons/loc.png" alt="location">National Transport New Delhi</h1>
+                    </div>
+                    <div class="about-para">
+                        <p>
+                        National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.
+                        </p>
+                        <div class="row button-row">
+              <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Enquiry</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Read More</a></div>
+            </div>
+                    </div>
+                </div> <div class="about-image">
+                    <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
+                </div>
+               
+                
+                
+            </div>
+        </div>
+
+        <div class="about-section">
+            <div class="about-content">
+            </div> <div class="about-image">
+                    <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
+                </div>
+               
+                <div class="about-text">
+                    <div class="about-heading">
+                        <h1><img class="icon" src="icons/loc.png" alt="location">National Transport New Delhi</h1>
+                    </div>
+                    <div class="about-para">
+                        <p>
+                        National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.
+                        </p>
+                        <div class="row button-row">
+              <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Enquiry</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Read More</a></div>
+            </div>
+                    </div>
+                
+               
+                
+                
+            </div>
+        </div>
+
+        <div class="about-section">
+            <div class="about-content">
+               
+                <div class="about-text">
+                    <div class="about-heading">
+                        <h1><img class="icon" src="icons/loc.png" alt="location">National Transport New Delhi</h1>
+                    </div>
+                    <div class="about-para">
+                        <p>
+                        National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.
+                        </p>
+                        <div class="row button-row">
+              <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Enquiry</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Read More</a></div>
+            </div>
+                    </div>
+                </div> <div class="about-image">
+                    <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
+                </div>
+               
+                
+                
+            </div>
+        </div>
+
+        <div class="about-section">
+            <div class="about-content"></div> <div class="about-image">
+                    <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
+                </div>
+               
+                <div class="about-text">
+                    <div class="about-heading">
+                        <h1><img class="icon" src="icons/loc.png" alt="location">National Transport New Delhi</h1>
+                    </div>
+                    <div class="about-para">
+                        <p>
+                        National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.
+                        </p>
+                        <div class="row button-row">
+              <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Enquiry</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Read More</a></div>
+            </div>
+                    </div>
+              
+               
+                
+                
+            </div>
+        </div>
+
+        <div class="about-section">
+            <div class="about-content">
+               
+                <div class="about-text">
+                    <div class="about-heading">
+                        <h1><img class="icon" src="icons/loc.png" alt="location">National Transport New Delhi</h1>
+                    </div>
+                    <div class="about-para">
+                        <p>
+                        National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.
+                        </p>
+                        <div class="row button-row">
+              <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Enquiry</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Read More</a></div>
+            </div>
+                    </div>
+                </div> <div class="about-image">
+                    <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
+                </div>
+               
+                
+                
+            </div>
+        </div>
+
+        <div class="about-section">
+            <div class="about-content">
+            </div> <div class="about-image">
                     <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
                 </div>
                 <div class="about-text">
                     <div class="about-heading">
-                        <h1>Low Bed Trailer Service In New Delhi</h1>
+                        <h1><img class="icon" src="icons/loc.png" alt="location">National Transport New Delhi</h1>
                     </div>
                     <div class="about-para">
                         <p>
-                            Low Bed Trailer Truck Services For Large And Heavy Goods Is Provided By National Transport Services New Delhi.
-                            Our Company Provides 40 Feet Low Bed Trailer Truck, 50 Feet Long Low Bed Trailer Truck, 60 Feet Low Bed Trailer Truck
-                            And Extendable Large Low Bed Trailers With Carrying Capacity Upto 200 MT. Our Company Is One Of The Pioneering Company
-                            In Long Haul Cargo Movement Of Over Size Goods Like Industrial Boiler, Transfarmers, Metro Coaches And Train Engines
-                            Transporation In New Delhi NCR Region.
-
-
+                        National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.
                         </p>
-                    </div>
-                </div>
+                        <div class="row button-row">
+              <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Enquiry</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Read More</a></div>
             </div>
-            <div class="about-getquote">        
-                <?php include "enquiry-form.php"; ?>
+                    </div>
+                </div> 
+               
+                
+                
+            </div>
+        </div>
+
+        <div class="about-section">
+            <div class="about-content">
+               
+                <div class="about-text">
+                    <div class="about-heading">
+                        <h1><img class="icon" src="icons/loc.png" alt="location">National Transport New Delhi</h1>
+                    </div>
+                    <div class="about-para">
+                        <p>
+                        National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.
+                        </p>
+                        <div class="row button-row">
+              <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Enquiry</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Read More</a></div>
+            </div>
+                    </div>
+                </div> <div class="about-image">
+                    <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
+                </div>
+               
+                
+                
             </div>
         </div>
 
@@ -74,13 +306,13 @@
 
 <!-- Recent Searches Section Starts Here -->
 
-        <div class="keywords">
+        <!-- <div class="keywords">
             <a href="index.php">truck transport service</a>
             <a href="index.php">book truck online</a>
 
-        </div>
+        </div> -->
 <!-- Recent Searches Section Ends Here -->
-
+<!-- 
         <?php include "trucks-services.php"; ?>
         <?php include "trailers-menu.php"; ?>
         <div class="row ms-5 mt-5 m-0 p-0">
@@ -112,8 +344,8 @@
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="row mt-5 p-0 m-0">
+        </div> -->
+        <!-- <div class="row mt-5 p-0 m-0">
             <div class="col-12 d-flex justify-content-center">
                 <h1>Testimonial</h1>
             </div>
@@ -246,9 +478,14 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
+
+
+        <?php include "testimonial.php"; ?>
+        <?php include "recent-searches.php"; ?>
+        <?php include "footer.php"; ?>
     </div>
-    <?php include "footer.php"; ?>
+   
 </body>
 
 </html>

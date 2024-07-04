@@ -57,9 +57,7 @@
                             Transport Services.
                         </p>
                     </div>
-                </div>
-            </div>
-            <div class="about-getquote">        
+                </div>       
                 <?php include "enquiry-form.php"; ?>
             </div>
         </div>

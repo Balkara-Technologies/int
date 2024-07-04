@@ -1,23 +1,7 @@
-<!-- <div class="footer">
-    <a href="www.indiannationaltransport.com">www.indiannationaltransport.com</a>
-</div> -->
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BT Technologies</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/destop.css">
-    <link rel="stylesheet" href="css/laptop.css">
-    <link rel="stylesheet" href="css/tablets.css">
-    <link rel="stylesheet" href="css/mobile.css">
-</head>
-<body>
 <div class="popular-searches-1">
-        <h3>Popular Searches</h3>
-        <div>
+        <h1><span></span><mark>Popular Sea</mark>rches</h1>
+        <div class="link-one">
             <a href="#">Truck</a> | 
             <a href="#">Trailer</a> | 
             <a href="#">Container</a> | 
@@ -60,9 +44,9 @@
             
         </div>
         <div class="popular-searches-1">
-        <h2>Top stories : Brand Directory</h2>
+        <h1><span></span><mark>Top stories : Bra</mark>nd Directory</h1>
         <div class="search">
-        <p class="p11">Our Best Services Directory</p>
+        <p class="p11"><mark>Our Best Services</mark> Directory
             Most Searched Services :<a href="#">Truck Booking</a> | 
             <a href="#">Trailers</a> | 
             <a href="#">Tempo</a> <br>
@@ -90,7 +74,7 @@
              <a href="#">Company Shifting</a> <br>
            ODC : <a href="#">Boilers Shifting</a> | 
             <a href="#">Transformer Shifting</a> 
- 
+</p>
         </div>
         <br>
     <!-- Footer Section -->
@@ -126,17 +110,22 @@
             <div class="footer-column-1">
                 <h3>Contact Us</h3>
                 <ul>
-                    <li><a href="#">Contact Support</a></li>
-                    <li><a href="#">Grievance Redressal</a></li>
+                    <li><a class="a111" href="#">Contact Support</a></li>
+                    <li><address> # 103 1st floor,Dada Mota Mandir Bharthal
+                    <br>Dwarka sec 26 ,New Delhi</address></li>
+                    <p><a  class="a111" href="mailto:demo@yourdomain.com"><i class="fa fa-envelope "></i> info@balkaratechnologies.com</a></p>
+
                 </ul>
             </div>
             <div class="footer-column-1">
                 <h3>Follow Us</h3>
                 <div class="social-media-1">
-                    <a href="#"><i class="fa fa-facebook"></i></a>
-                    <a href="#"><i class="fa fa-twitter"></i></a>
-                    <a href="#"><i class="fa fa-instagram"></i></a>
-                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                    <a href="#"><img width="20px" height="20px" src="icons/national-transport-home-icon.png" alt=""></a>
+                    <a href="#"><img width="20px" height="20px" src="icons/national-transport-home-icon.png" alt=""></a>
+                    <a href="#"><img width="20px" height="20px" src="icons/national-transport-home-icon.png" alt=""></a>
+                    <a href="#"><img width="20px" height="20px" src="icons/national-transport-home-icon.png" alt=""></a>
+                    <a href="#"><img width="20px" height="20px" src="icons/national-transport-home-icon.png" alt=""></a>
+                    
                 </div>
             </div>
         </div>
@@ -144,28 +133,29 @@
             <div class="footer-column-1">
                 <h3>Top Stories</h3>
                 <ul>
-                    <li><a href="#">Story 1</a></li>
-                    <li><a href="#">Story 2</a></li>
-                    <li><a href="#">Story 3</a></li>
-                    <li><a href="#">Story 4</a></li>
+                   <li><a href="#">14 Feet Truck</a></li>
+                    <li><a href="#">15 Feet Truck</a></li>
+                    <li><a href="#">Trailers</a></li>
+                    <li><a href="#">Packers Movers</a></li>
                 </ul>
             </div>
             <div class="footer-column-1">
                 <h3>Brand Directory</h3>
                 <ul>
-                    <li><a href="#">Brand 1</a></li>
-                    <li><a href="#">Brand 2</a></li>
-                    <li><a href="#">Brand 3</a></li>
-                    <li><a href="#">Brand 4</a></li>
+                    <li><a href="#">www.BTTechonologies.com</a></li>
+                    <li><a href="#">www.Packermovers.com</a></li>
+                    <li><a href="#">www.indiannationaltransport.com</a></li>
+                    <li><a href="#">ww.balkaratechnologies.com</a></li>
                 </ul>
             </div>
             <div class="footer-column-1">
-                <h3>Myntra Top Searches</h3>
+                <h3>Top Choices</h3>
                 <ul>
-                    <li><a href="#">Men's Clothing</a></li>
-                    <li><a href="#">Women's Clothing</a></li>
-                    <li><a href="#">Kids' Clothing</a></li>
-                    <li><a href="#">Accessories</a></li>
+                    <li><a href="#">14 Feet Truck</a></li>
+                    <li><a href="#">15 Feet Truck</a></li>
+                    <li><a href="#">16 Feet Truck</a></li>
+                    <li><a href="#">19 Feet Truck</a></li>
+               
                 </ul>
             </div>
         </div>
@@ -175,5 +165,4 @@
     
  
     </div>
-</body>
-</html>
+

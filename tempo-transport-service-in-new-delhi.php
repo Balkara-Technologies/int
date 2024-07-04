@@ -27,6 +27,7 @@
     <link rel="stylesheet" href="css/tablets.css">
     <link rel="stylesheet" href="css/laptop.css">
     <link rel="stylesheet" href="css/desktop.css">
+    
   
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 </head>
@@ -37,7 +38,8 @@
         <?php include "middle-menu.php"; ?>
         <?php include "main-menu.php"; ?>
 
-        <main class="content">
+<!-- About Section Starts Here -->
+<main class="content">
         <!-- Existing sections... -->
 
         <section class="section">
@@ -153,9 +155,7 @@
         </div>
     </section>
     
-
-
-<!-- About Section Starts Here -->
+<br>
 
         <div class="about-section">
             <div class="about-content">

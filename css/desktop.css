@@ -1,309 +1,550 @@
-*, *::after, *::before {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+/* section 1 end  */
 
-}
-body {
 
-    font-family: Arial, Helvetica, sans-serif;
-  
-}
- /*    --------------------------------- css for desktop & above devices starts here for devices 1024px to 1440px ---------------------------*/
+/*    --------------------------------- css for desktop & above devices starts here for devices 1024px to 1440px ---------------------------*/
 
-@media only screen and (min-width: 1024px) {
+@media only screen and (min-width: 1024px) and (max-width:2000px) {
 
-* {
+    *,
+    *::after,
+    *::before {
         margin: 0;
-        padding: 0;
+        padding: 1px;
         box-sizing: border-box;
+        font-family: Arial, Helvetica, sans-serif;
+        /* background-color: #f0f0f0;  */
+        /* background-color: rgb(216, 215, 233); */
+        color: #333;
+
+    }
+
+    /* Top Nav Bar & Sectiobn CSS Starts Here for desktop 1024px to 1440px */
+
+    .card-container-img {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+        width: 100%;
+        max-width: 1200px;
+    }
+    
+    .card-img {
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        width: calc(33.333% - 20px);
+        padding: 20px;
+        box-sizing: border-box;
+        text-align: center;
+        margin-top: 20px;
+        transition: transform 0.3s ease-in-out;
+    }
+    
+    .card-img:hover {
+        transform: translateY(-10px);
+    }
+    
+    .card-img img {
+        width: 100%;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        height: auto;
+        object-fit: cover;
+    }
+    
+    .card-img h2 {
+        margin: 20px 0 10px;
+        font-size: 1.5em;
+        color: #333;
+    }
+    
+    .card-img p {
+        font-size: 1em;
+        color: #666;
+        margin-bottom: 20px;
+    }
+    
+    .card-img hr {
+        width: 80%;
+        border: 0;
+        border-top: 1px solid #eee;
+        margin: 20px 0;
+    }
+
+   
+    #top-section {
+        width: clamp(1024px, 100%, 1440px);
+        margin: auto;
+        margin-top: 5px;
+        padding: clamp(4px, .75vw, 16px);
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .top-nav {
+        border: 1px solid #0C356A;
+        display: inline-flex;
+    }
+
+    .top-nav>li {
+        list-style-type: none;
+    }
+
+    .top-nav>li>a:link {
+        text-decoration: none;
+        color: #0C356A;
+        padding: clamp(1px, .4vw, 8px);
+        display: block;
+        font-size: clamp(12px, 1vw, 14px);
+    }
+
+    #mob-number {
+        font-weight: bold;
+        font-size: clamp(12px, 1vw, 16px);
+    }
+
+    .top-nav>li>a:hover {
+        background-color: #0C356A;
+        color: #fff;
+    }
+
+    /* Top Nav Bar & Sectiobn CSS Ends Here */
+
+    /* Container CSS Starts Here.............. */
+    .container {
+        width: clamp(1024px, 100%, 1440px);
+        margin: auto;
+
+    }
+
+    /* Middle Menu CSS Starts Here ................... */
+
+    #middle-menu {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    #middle-menu>div {
+        display: flex;
+        justify-content: center;
+    }
+
+    #logo-div {
+        width: 20vw;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #logo-div>a {
+        display: flex;
+        flex-direction: column;
+        text-decoration: none;
+    }
+
+    #logo-div>a>p:first-child {
+        padding: 0;
+        margin: 0;
+        color: #0C356A;
+        font-weight: bolder;
+        font-size: clamp(24px, 2vw, 48px);
+        line-height: 80%;
+    }
+
+    #logo-div>a>p:nth-of-type(2) {
+        padding: 0;
+        margin: 0;
+        color: #0C356A;
+        font-weight: bolder;
+        font-size: clamp(18px, 1.5vw, 32px);
+    }
+
+    .book-now-img {
+        width: 40vw;
+    }
+
+    .book-now-img>a>img {
+        width: clamp(60px, 8vw, 120px);
+        border-radius: 50%;
+    }
+
+    /* middle logo & book now images css ends here */
+
+
+
+    .main-menu {
+        height: 35px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        background-color: #0C356A;
+        max-width: 100%;
+        width: -webkit-fill-available;
+
+    }
+
+    .main-menu>a {
+        text-decoration: none;
+        color: #fff;
+        font-weight: lighter;
+    }
+
+    .main-menu>a:hover {
+        text-decoration: none;
+        color: #fff;
+        font-weight: lighter;
+    }
+
+    .main-menu>a>img {
+        width: 20px;
+        height: 20px;
+        margin-top: -5px;
+    }
+    .quote-form-container {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        max-width: 300px;
+        width: 100%;
+        border-top: 2px solid black;
+        border-right: 2px solid black;
+
+    }
+    
+    .quote-form-container h2 {
+        margin-bottom: 20px;
+        color: #333;
+        text-align: center;
+    }
+    
+    form {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    label {
+        margin-bottom: 5px;
+        color: #555;
+    }
+    
+    input, textarea {
+        margin-bottom: 15px;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        font-size: 16px;
+    }
+    
+    /* section 1 start */
+
+
+    .icon {
+        width: 4%;
+        height: 2%;
+        box-shadow: drop-shadow(#f31a0b);
+
+    }
+
+    .heading-one {
+        font-size: 2.5em;
+        color: #0d3257;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+
+    }
+
+    span {
+
+        border-left: 7px solid #4c4e80;
+    }
+
+    mark {
+        
+        color: rgba(13, 31, 49, 0.85);
+        background-color: whitesmoke;
+    }
+
+    .heading-two {
+        font-size: 2.1em;
+        color: #062644;
+        text-align: left;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        text-align: left;
+        display: flex;
+
+    }
+
+    .about-section {
+        display: flex;
+        flex-wrap: wrap;
+        background-color: #fff;
+        padding: 20px;
+        max-height: 100vh;
+
+    }
+
+    .about-image {
+        flex: 1;
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-right: 30px;
+
+    }
+
+    .about-image img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 10px;
+        box-shadow: 0 4px 16px rgb(21, 20, 20);
+
+    }
+
+    .about-image-two {
+        flex: 1;
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-left: 30px;
+
+    }
+
+    .about-image-two img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 10px;
+        box-shadow: 0 4px 16px rgb(21, 20, 20);
+
+    }
+
+    .about-text {
+        flex: 2;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 10px;
+        border-bottom: 3px solid rgb(8, 45, 94);
+        border-right: 2px solid rgb(19, 22, 23);
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .about-para p {
+        font-size: 1em;
+        line-height: 1.6;
+        color: #555;
+    }
+    .about-content {
+        display: inline-flex;
+    }
+
+
+.services {
+    text-align: center;
+    background-color: #fff;
+    border-radius: 8px;
+    max-width: 1200px;
 }
 
-
-/* Top Nav Bar & Sectiobn CSS Starts Here for desktop 1024px to 1440px */
-
-#top-section{
-    width: clamp(1024px, 100%, 1440px);
-    margin: auto;
-    margin-top: 5px;
-    /* padding: clamp(4px, .75vw, 16px); */
+.service-image {
     display: flex;
-    justify-content: space-between;
-}
-.top-nav{
-    border: 1px solid #0C356A;
-    display: inline-flex;
-}
-.top-nav > li {
-    list-style-type: none;
-}
-.top-nav > li > a:link {
-    text-decoration: none;
-    color: #0C356A;
-    padding: clamp(1px, .4vw, 8px);
-    display: block;
-    font-size: clamp(12px, 1vw, 14px);
-}
-#mob-number {
-    font-weight: bold;
-    font-size: clamp(12px, 1vw, 16px);
-}
-.top-nav > li > a:hover {
-    background-color: #0C356A;
-    color: #fff;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
 }
 
-/* Top Nav Bar & Sectiobn CSS Ends Here */
+.service-image img {
+    max-width: 100%;
+    height: 12vw;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
 
-/* Container CSS Starts Here.............. */
-.container {
-    width: clamp(1024px, 100%, 1440px);
-    margin: auto;
+    .button-row {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+    }
+
+    .four-btn-on {
+        flex: 1;
+        text-align: center;
+        margin: 5px;
+        font-size: 1.3em;
+    }
+
+    .four-btn-on a {
+        display: block;
+        padding: 10px 15px;
+        background-color: #133250;
+        /* Medium blue for buttons */
+        color: #fff;
+        text-decoration: none;
+        border-radius: 5px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .four-btn-on a:hover {
+
+        color: rgb(250, 250, 251);
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+        border: 1px solid rgb(11, 11, 11);
+        border-radius: 7px;
+        color: #0d3257;
+        background-color: whitesmoke;
+    }
+    
+    /* recent searches */
+    .recent-heading p {
+        font-size: 24px;
+        color: #fff; /* White text color */
+        margin-bottom: 20px;
+    }
+    
+    .recent-content-wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+    
+    .recent-content {
+        background-color: #30475b; /* Darker blue background for content blocks */
+        padding: 15px;
+        border-radius: 8px;
+        width: 100%;
+        max-width: 280px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        text-align: left;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    
+    .recent-content:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    }
+    
+    .recent-content p {
+        font-size: 18px;
+        color: #fff; /* White text color */
+        margin-bottom: 10px;
+    }
+    
+    .recent-content a {
+        display: block;
+        color: #00aaff; /* Light blue color for links */
+        text-decoration: none;
+        margin-bottom: 5px;
+        font-size: 16px;
+        transition: color 0.3s ease;
+    }
+    
+    .recent-content a:hover {
+        color: #ffd700; /* Gold color on hover */
+        text-decoration: underline;
+    }
+    
+
+}
+
+
+.testimonials {
+    text-align: center;
+    background: #fff;
+}
+
+.testimonials h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    font-weight: 600;
+    color: #333;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.card {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 300px;
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.image-container {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto 20px;
+}
+
+.image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
     
 }
-/* Middle Menu CSS Starts Here ................... */
 
-#middle-menu {
-    display: flex;
-    justify-content: space-between;
-}
-#middle-menu > div {
-    display: flex;
-    justify-content: center;
-}
-#logo-div {
-    width: 20vw;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-#logo-div > a {
-    display: flex;
-    flex-direction: column;
-    text-decoration: none;
-}
-#logo-div > a > p:first-child {
-    padding: 0;
-    margin: 0;
-    color: #0C356A;
-    font-weight: bolder;
-    font-size: clamp(24px, 2vw, 48px);    
-    line-height: 80%;
-}
-#logo-div > a > p:nth-of-type(2) {
-    padding: 0;
-    margin: 0;
-    color: #0C356A;
-    font-weight: bolder;
-    font-size: clamp(18px, 1.5vw, 32px);
-}
-.book-now-img {
-    width: 40vw;
-}
-
-.book-now-img > a > img {
-    width: clamp(60px, 8vw, 120px);
-    border-radius: 50%;
-}
-
-/* middle logo & book now images css ends here */
-
-
-
-.main-menu {
-    height: 35px;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    background-color: #0C356A;
-
-}
-.main-menu > a {
-    text-decoration: none;
-    color: #fff;
-    font-weight: lighter;
-}
-.main-menu > a:hover {
-    text-decoration: none;
-    color: #fff;
-    font-weight: lighter;
-}
-
-.main-menu > a > img {
-    width: 20px;
-    height: 20px;
-    margin-top: -5px;
-}
-/*  About CSS for Desktop Starts Here */
-  }
-  .about-section {
-    display: flex;
-    width: 100%w;
-    height: 300px;
-    padding-top: 1rem;
-  }
-.about-content {
-    display: flex;
-    width: 75%;
-    height: 100%;
-  }
-.about-image {
-    width: 30%;
-  }
-.about-image > img {
-    width: 100%;
-    height: 100%;
-}
-
-.about-text {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    margin: 2rem;
-}
-.about-heading > h1 {
-    font-size: 1.5rem;
-    font-weight: lighter;
-}
-.about-para > p {
-    text-align: justify;
-    line-height: 1.5rem;
-    margin-top: .5rem;
-}
-
-.about-section > .about-getquote {
-    width: 25%;
-    height: 100%;
-  }
-  /* Get Quote on Home Page Starts Here */
- 
-  .about-getquote > form {
-    padding: 5%;
-  }
-.fieldset > legend {
-    font-size: 1rem;
+.testimonial-content {
     text-align: center;
 }
-.fieldset > label {
-    width: 30%;
-}
-.fieldset > input {
-    width: 70%;
-    margin: 2% 2%;
-}
-.fieldset > input[type=submit] {
-    margin: 5% 22.5%;
+
+.name {
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-size: 1.1em;
+    color: #333;
 }
 
-/* Keywords CSS Starts Here */
-
-.keywords {
-    margin: 2rem 0;
-    display: flex;
-    justify-content: space-around;
-}
-.keywords > a {
-    text-decoration: none;
-    color: #0C356A;
-    border: 1px solid #0C356A;
-    padding: .25rem .5rem;
-}
-
-/* Our Services on Main Page CSS Starts Here */
-.services {
-    display: flex;
-    flex-wrap: wrap;
-}
-.services-heading {
-    width: 100%;
-}
-.services-heading > p {
-    font-size: 25px;
-    text-align: center;
-    background-color: #0174be;
-}
-.services-img {
-    width: 25%;
-    height: 250px;
-}
-.services-img > img {
-    width: 100%;
-    height: 100%;
-}
-/* Our Services on Main Page CSS Ends Here */
-
-/* Testimonials on Main Page CSS Starts Here */
-.testimonial-section {
-    margin-top: 50px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-.testimonial-heading {
-    width: 100%;
-    text-align: center;
-    font-size: 2.5rem;
+.title {
+    color: #777;
+    margin-bottom: 15px;
 }
 
 .testimonial {
-    width: 25%;
-    text-align: center;
-    margin: 30px;
-    border: 1px solid #0C356A;
+    font-style: italic;
+    margin-bottom: 20px;
+    color: #555;
 }
-.testimonial > img {
-    width: 150px;
-    border-radius: 50%;
-}
-.testimonial-content {
-    padding: 30px;
-    text-align: justify;
-}
-/* Testimonials on Main Page CSS Ends Here */
 
-/* Recent Searches Section CSS Starts Here */
-.recent-section {
-    margin-top: 50px;
+.rating {
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
 }
-.recent-heading {
-    width: 100%;
-    text-align: center;
-    font-size: 2.5rem;
+
+.rating .fa {
+    color: #ffc107;
 }
-.recent-content {
-    width: 40%;
-    text-align: center;
-    margin: 25px;
-    padding: 25px;
-    border: 1px solid #0C356A;
+
+.rating .fa.checked {
+    color: #ffc107;
 }
-.recent-content > p {
-    font-size: 2rem;
-}
-.recent-content > a {
-    text-decoration: none;
-    margin: 10px;
-    padding: 5px;
-}
-/* Recent Searches Section CSS Ends Here */
-
-
-
-        /* css for desktop devices ends here screen size 1024px to 1440px ..........................................................................  */
-
-
-               /* Continue from previous CSS */
-
-/* Additional styling for Popular Searches Section */
+/*footer start  */
 .popular-searches-1 {
     background-color: #f4f4f4;
     color: #333;
-    padding: 20px 0;
     text-align: center;
-    margin-top: 20px; /* Add margin to separate from footer */
+
+
 }
 
 .popular-searches-1 h3 {
@@ -322,289 +563,116 @@ body {
     text-decoration: underline;
 }
 
-/* General styles */
-.container-1 {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 20px;
+.body-1 {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
-/* Responsive adjustments */
-@media (max-width: 768px) {
-    .footer-1 .container-1 {
-        flex-wrap: wrap;
-    }
-    .footer-column-1 {
-        flex: 1 1 50%;
-        max-width: 50%;
-    }
-    .popular-searches-1 {
-        padding: 20px;
-    }
+.footer-1 {
+    background-color: rgb(21, 21, 64,0.9);
+    color: rgb(22, 17, 17);
+    padding: 0px 0;
+    /* background-color: rgb(255 255 255 / 30%); */
+    backdrop-filter: blur(10px);
 }
 
-        .body-1 {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        .footer-1 {
-            background-color: #240725;
-            color: white;
-            padding: 40px 0;
-        }
-        .footer-1 .container-1 {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;
-        }
-        .footer-column-1 {
-            flex: 1;
-            margin: 10px;
-            min-width: 200px;
-        }
-        .footer-column-1 h3 {
-            border-bottom: 2px solid #f4f4f4;
-            padding-bottom: 10px;
-            margin-bottom: 10px;
-        }
-        .footer-column-1 ul {
-            list-style: none;
-            padding: 0;
-        }
-        .footer-column-1 ul li {
-            margin: 10px 0;
-        }
-        .footer-column-1 ul li a {
-            color: white;
-            text-decoration: none;
-        }
-        .footer-column-1 ul li a:hover {
-            text-decoration: underline;
-        }
-        .social-media-1 {
-            display: flex;
-            justify-content: flex-start;
-        }
-        .social-media-1 a {
-            color: white;
-            font-size: 20px;
-            margin-right: 15px;
-        }
-        .popular-searches-1 {
-            background-color: #fff;
-            color: #333;
-            padding: 20px 0;
-            text-align: center;
-        }
-        .popular-searches-1 a {
-            color: #333;
-            margin: 0 10px;
-            text-decoration: none;
-        }
-        .popular-searches-1 a:hover {
-            text-decoration: underline;
-        }
-        @media (max-width: 768px) {
-            .footer-column-1 {
-                flex: 1 1 100%;
-            }
-        }
-        .search {
-           
+.footer-1 .container-1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.footer-column-1 {
+    flex: 1;
+    margin: 10px;
+    min-width: 200px;
+}
+
+.footer-column-1 h3 {
+    border-bottom: 2px solid #f4f4f4;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.footer-column-1 ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-column-1 ul li {
+    margin: 10px 0;
+}
+
+.footer-column-1 ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-column-1 ul li a:hover {
+    text-decoration: underline;
+}
+
+.social-media-1 {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.social-media-1 a {
+    color: white;
+    font-size: 20px;
+    margin-right: 15px;
+}
+
+.popular-searches-1 {
+    background-color: #fff;
+    color: #333;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.popular-searches-1 a {
+    color: #1e1b1b;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.popular-searches-1 a:hover {
+    text-decoration: underline;
+}
+
+.link-one{
+    padding: 8px;
+    display: ruby-text;
+    margin: 20px;
+}
+
+.search {
+
     text-align: left;
     padding: 20px;
     margin: 10px;
-        
-        }
-            .p11{
-                font-weight: 700;
-                font-size: 20px;
-            }
 
-            
-.content {
-    padding: 20px;
-    max-width: 1200px;
-    margin: 0 auto;
-  }
-  
-  .section {
-    margin-bottom: 20px;
-    background: #fff;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  }
-  
-  .content-wrapper {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-  }
-  
-  .content-wrapper .text {
-    flex: 1;
-    padding: 0 20px;
-  }
-  
-  .image-left, .image-right {
-    width: 200px;
-    height: auto;
-    flex: 0 0 200px;
-    border-radius: 8px;
-  }
-  
-  .image-right {
-    order: 2;
-  }
-  
-  .buttons {
-    text-align: center;
-    margin-top: 20px;
-  }
-  
-  .btn {
-    display: inline-block;
-    background: #f39c12;
+}
+
+
+    .p11 {
+        font-weight: 500;
+        font-size: 17px;
+        letter-spacing: 0;
+        margin: 13px;
+        padding: 0px;
+        line-height: 25px;
+    
+}
+ p .a111{
     color: #fff;
-    padding: 10px 20px;
-    text-decoration: none;
-    border-radius: 5px;
-    margin: 5px;
-    transition: background 0.3s ease;
-  }
-  
-  .btn:hover {
-    background: #e67e22;
-  }
-  
-  .blog-posts {
-    background: #fff;
-    padding: 20px;
-    text-align: center;
-    max-width: 1200px;
-    margin: 0 auto;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  }
-  
-  .blog-posts h2 {
-    font-size: 2em;
-    margin-bottom: 10px;
-  }
-  
-  .blog-wrapper {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-  }
-  
-  .blog-post {
-    background: #f4f4f4;
-    padding: 20px;
-    border-radius: 8px;
-    margin: 10px;
-    flex: 1;
-    max-width: 30%;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    text-align: center;
-  }
-  
-  .blog-image {
-    width: 100%;
-    height: auto;
-    border-radius: 8px;
-    margin-bottom: 10px;
-  }
-  
-  .testimonials {
-    background: #fff;
-    padding: 20px;
-    text-align: center;
-    max-width: 1200px;
-    margin: 0 auto;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  }
-  
-  .testimonials h2 {
-    color: #f39c12;
-    font-size: 2em;
-    margin-bottom: 10px;
-  }
-  
-  .testimonials p {
-    margin-bottom: 20px;
-    font-size: 1.1em;
-  }
-  
-  .testimonial-wrapper {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    flex-wrap: wrap;
-  }
-  
-  .testimonial {
-    background: #f4f4f4;
-    padding: 20px;
-    border-radius: 8px;
-    margin: 10px;
-    flex: 1;
-    max-width: 30%;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    text-align: center;
-  }
-  
-  .user-image {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    margin-bottom: 10px;
-  }
-  
-  .quote {
-    color: #f39c12;
-    font-size: 1.5em;
-  }
-  
-  .user-name {
-    font-weight: bold;
-    margin-top: 10px;
-  }
-  
-  .user-title {
-    font-style: italic;
-    color: #666;
-  }
-  
-  .footer {
-    background: #333;
-    color: #fff;
-    text-align: center;
-    padding: 20px;
-  }
-  
-  @media (max-width: 768px) {
-    .content-wrapper, .blog-wrapper, .testimonial-wrapper {
-        flex-direction: column;
-        align-items: center;
-    }
-  
-    .image-left, .image-right {
-        width: 100%;
-        margin-bottom: 20px;
-    }
-  
-    .text {
-        padding: 0;
-    }
-  
-    .blog-post, .testimonial {
-        max-width: 100%;
-    }
-  }
-  
-              
+}
+.a123 {
+    color: whitesmoke;
+}
+address{
+    color: white;
+}
+
+/* footer end  */

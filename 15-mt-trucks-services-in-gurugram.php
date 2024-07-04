@@ -52,11 +52,10 @@
                 <div class="about-text">
                     <div class="about-heading">
                         <h1>15 MT Truck Transport Company New Delhi</h1>
-                        <h2>Buy the truck</h2>
                     </div>
                     <div class="about-para">
                         <p>
-                            15 MT Trucks Services In Gurgaon Haryana Is Provided By National Trucks Transport Services In Gurugram. Our Company Provide 15 MT
+                            15 MT Trucks Services In Gurugram Haryana Is Provided By National Trucks Transport Services In Gurugram. Our Company Provide 15 MT
                             Open Body Trucks For Transportation Of Goods From Gurugram & All NCR Region. Our Best Services In Transporaton Of 15 MT Close body 
                             Trucks Is Very Much In Demand For Household Goods Transportation. 24x7 All Types Of Trucks Are Available For Online Truck Booking
                             In Gurugram & Delhi NCR Region.
