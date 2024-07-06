@@ -72,7 +72,7 @@
             <hr>
             <div class="row button-row">
               <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
-              <div class="four-btn"><a href="platform-truck-service-in-new-delhi.php" class="text-decoration-none">Contact</a></div>
+              <div class="four-btn"><a href="platform-truck-service-in-new-delhi.php" class="text-decoration-none">Read More</a></div>
              </div>
            
         </div>
