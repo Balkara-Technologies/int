@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-    <title>Pickup Trucks Service In New Delhi | Call +91-9289218921</title>
+    <title>Platform Trucks Service In New Delhi | Call +91-9289218921</title>
     <meta name="description" content="Pick Up Truck Transport Services In New Delhi Is Now Provided By National Transport Services. Call 9289218921 
     Online Pickup Close Body Truck Booking And Mahindra Bolero Pickup Open Body Truck Booking For Hire Rent Lease In New Delhi NCR Region. 
     Our services One of The Fastest 
