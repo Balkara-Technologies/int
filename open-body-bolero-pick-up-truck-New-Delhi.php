@@ -38,230 +38,264 @@
     <?php include "top-menu.php"; ?>
     <?php include "middle-menu.php"; ?>
     <?php include "main-menu.php"; ?>
+    <h1 class="heading-one slash"><span></span> <mark>  Truck Serv</mark>ice in New Delhi</h1>
     <div class="container">
-        <!-- About Section Starts Here -->
-        <h1 class="heading-one slash"><span></span> <mark>  Truck Serv</mark>ice in New Delhi</h1>
-        <div class="about-section">
-          <div class="about-image">
-            <img src="images/truck-images/tp1.jpg" alt="National-Transport-Company-New-Delhi">
-          </div>
-          <div class="about-text">
-            <div class="about-heading">
-              <h1 class="heading-two "><img class="icon" src="icons/loc.png" alt="location">14 Feet Truck Transport Service New Delhi</h1>
-             
-            </div>
-            <div class="about-para">
-              <p>
-                14 Feet Truck Transport Services Are Very Much In Demand In New Delhi Due To Frequent Home Shifting By Families In New Delhi.
-                Our Wide Range Of Transport Services Include Packers Movers Services and Car Transport Services, Packing Of Household Goods, Loading, Unloading
-                And Unpacking Of Home Goods. Our Professional Packers Movers Staff Shifts Your Household Goods With Very Ease And 
-                Comfort. Transportation Services For 14 Feet Truck, 17 Feet Truck, 19 Feet Truck And 20 Feet Open And Close Body 
-                Truck Transportation Services Available Round The Clock With Our Company. 
-              </p>
-            </div>
+        <div class="card-container-img">
+        <div class="card-img">
+            <img src="images/open-body-bolero-pick-up-truck-images/mahindra-bolero-pikup-cng.webp" alt="Image 1">
+            <h2>40 Feet Truck</h2>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis deleniti exercitationem laboriosam nisi, adipisci iure dicta dolorem atque eaque saepe odit ex animi natus non nobis necessitatibus totam quos eveniet?
+            </p>
+            <hr>
             <div class="row button-row">
               <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
               <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
-              <div class="four-btn"><a href="#" class="text-decoration-none">Enquiry</a></div>
-              <div class="four-btn"><a href="#" class="text-decoration-none">Read More</a></div>
-            </div>
-          </div>
+             </div>
         </div>
-    <div class="container">
-        <div class="about-section">
-            <div class="about-text">
-            <div class="about-heading">
-                <h1 class="heading-two"> <img class="icon" src="icons/loc.png" alt="location">14 Feet Truck Transport Service New Delhi</h1>
-            </div>
-      <div class="about-para">
-        <p>
-          14 Feet Truck Transport Services Are Very Much In Demand In New Delhi Due To Frequent Home Shifting By Families In New Delhi.
-          Our Wide Range Of Transport Services Include Packers Movers Services and Car Transport Services, Packing Of Household Goods, Loading, Unloading
-          And Unpacking Of Home Goods. Our Professional Packers Movers Staff Shifts Your Household Goods With Very Ease And 
-          Comfort. Transportation Services For 14 Feet Truck, 17 Feet Truck, 19 Feet Truck And 20 Feet Open And Close Body 
-          Truck Transportation Services Available Round The Clock With Our Company. 
-        </p>
-      </div>
-      <div class="row button-row">
-        <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
-        <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
-        <div class="four-btn"><a href="#" class="text-decoration-none ">Enquiry</a></div>
-        <div class="four-btn"><a href="#" class="text-decoration-none">Read More</a></div>
-      </div>
-    </div>
-    <div class="about-image-two">
-      <img src="images/truck-images/tp1.jpg" alt="National-Transport-Company-New-Delhi">
-    </div>
-  </div>
-</div>
-<div class="container">
-        <!-- About Section Starts Here -->
-        <div class="about-section">
-          <div class="about-image">
-            <img src="images/truck-images/tp1.jpg" alt="National-Transport-Company-New-Delhi">
-          </div>
-          <div class="about-text">
-            <div class="about-heading">
-              <h1 class="heading-two  " ><img class="icon" src="icons/loc.png" alt="location"> 14 Feet Truck Transport Service New Delhi</h1>
-             
-            </div>
-            <div class="about-para">
-              <p>
-                14 Feet Truck Transport Services Are Very Much In Demand In New Delhi Due To Frequent Home Shifting By Families In New Delhi.
-                Our Wide Range Of Transport Services Include Packers Movers Services and Car Transport Services, Packing Of Household Goods, Loading, Unloading
-                And Unpacking Of Home Goods. Our Professional Packers Movers Staff Shifts Your Household Goods With Very Ease And 
-                Comfort. Transportation Services For 14 Feet Truck, 17 Feet Truck, 19 Feet Truck And 20 Feet Open And Close Body 
-                Truck Transportation Services Available Round The Clock With Our Company. 
-              </p>
-            </div>
+        <div class="card-img">
+            <img src="images/open-body-bolero-pick-up-truck-images/bolero-maxi-truckplus.jpg" alt="Image 2">
+            <h2>50 Feet Truck</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto impedit facere quas quibusdam ipsam ducimus expedita blanditiis a eos aliquid. Unde repellat beatae saepe quo, ad non laboriosam impedit modi!</p>
+            <hr>
             <div class="row button-row">
               <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
               <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
-              <div class="four-btn"><a href="#" class="text-decoration-none">Enquiry</a></div>
-              <div class="four-btn"><a href="#" class="text-decoration-none">Read More</a></div>
-            </div>
-          </div>
+             </div>
         </div>
-    <div class="container">
-        <div class="about-section">
-            <div class="about-text">
-            <div class="about-heading">
-                <h1 class="heading-two"> <img class="icon" src="icons/loc.png" alt="location">14 Feet Truck Transport Service New Delhi</h1>
-            </div>
-      <div class="about-para">
-        <p>
-          14 Feet Truck Transport Services Are Very Much In Demand In New Delhi Due To Frequent Home Shifting By Families In New Delhi.
-          Our Wide Range Of Transport Services Include Packers Movers Services and Car Transport Services, Packing Of Household Goods, Loading, Unloading
-          And Unpacking Of Home Goods. Our Professional Packers Movers Staff Shifts Your Household Goods With Very Ease And 
-          Comfort. Transportation Services For 14 Feet Truck, 17 Feet Truck, 19 Feet Truck And 20 Feet Open And Close Body 
-          Truck Transportation Services Available Round The Clock With Our Company. 
-        </p>
-      </div>
-      <div class="row button-row">
-        <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
-        <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
-        <div class="four-btn"><a href="#" class="text-decoration-none ">Enquiry</a></div>
-        <div class="four-btn"><a href="#" class="text-decoration-none">Read More</a></div>
-      </div>
-    </div>
-    <div class="about-image-two">
-      <img src="images/truck-images/tp1.jpg" alt="National-Transport-Company-New-Delhi">
-    </div>
-  </div>
-</div>
-<!-- About Section Ends Here -->
- <!-- testimonial  -->
- <section class="testimonials">
-        <div class="container">
-            <h2><span></span> <mark>Testim</mark>onial</h2>
-            <div class="cards">
-                <div class="card">
-                    <div class="image-container">
-                        <img src="images/car-carrier-images/cartrans.jpg" alt="Andrew Rathore">
-                    </div>
-                    <div class="testimonial-content">
-                        <p class="name">Andrew Rathore</p>
-                        <p class="title">Founder & CEO</p>
-                        <p class="testimonial">We love the generosity, great vision, strategic insights and pragmatic advice of the value-based product. We deliver extraordinary services, enriching the customer experience.</p>
-                        <div class="rating">
-                            <span class="fa fa-star checked"></span>
-                            <span class="fa fa-star checked"></span>
-                            <span class="fa fa-star checked"></span>
-                            <span class="fa fa-star checked"></span>
-                            <span class="fa fa-star"></span>
-                        </div>
-                    </div>
-                </div>
-               
-            <div class="cards">
-                <div class="card">
-                    <div class="image-container">
-                        <img src="images/car-carrier-images/cartrans.jpg" alt="Andrew Rathore">
-                    </div>
-                    <div class="testimonial-content">
-                        <p class="name">Andrew Rathore</p>
-                        <p class="title">Founder & CEO</p>
-                        <p class="testimonial">We love the generosity, great vision, strategic insights and pragmatic advice of the value-based product. We deliver extraordinary services, enriching the customer experience.</p>
-                        <div class="rating">
-                            <span class="fa fa-star checked"></span>
-                            <span class="fa fa-star checked"></span>
-                            <span class="fa fa-star checked"></span>
-                            <span class="fa fa-star checked"></span>
-                            <span class="fa fa-star"></span>
-                        </div>
-                    </div>
-                </div>
-               
-            <div class="cards">
-                <div class="card">
-                    <div class="image-container">
-                        <img src="images/car-carrier-images/cartrans.jpg" alt="Andrew Rathore">
-                    </div>
-                    <div class="testimonial-content">
-                        <p class="name">Andrew Rathore</p>
-                        <p class="title">Founder & CEO</p>
-                        <p class="testimonial">We love the generosity, great vision, strategic insights and pragmatic advice of the value-based product. We deliver extraordinary services, enriching the customer experience.</p>
-                        <div class="rating">
-                            <span class="fa fa-star checked"></span>
-                            <span class="fa fa-star checked"></span>
-                            <span class="fa fa-star checked"></span>
-                            <span class="fa fa-star checked"></span>
-                            <span class="fa fa-star"></span>
-                        </div>
-                    </div>
-                </div>
-               
+        <div class="card-img">
+            <img src="images/open-body-bolero-pick-up-truck-images/Bolero_Camper-2.jpg" alt="Image 3">
+            <h2>60 Feet Truck</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias neque, odit tempore voluptates, delectus doloremque soluta nesciunt assumenda quidem voluptatum sunt quam atque? At id ipsa eius eaque qui labore!</p>
+            <hr>
+            <div class="row button-row">
+              <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
+             </div>
+           
         </div>
-    </section>
-    <!-- testimonial ends here  -->
+    </div>
 
-    <!-- Recent Articles start  -->
-    <!-- <div class="popular-searches-1">
-        <h3><span></span><mark>Recent Arti</mark>cles</h3>
-        <div class="link-one">
-            <a href="#">Truck</a> | 
-            <a href="#">Trailer</a> | 
-            <a href="#">Container</a> | 
-            <a href="#">Packeges</a> | 
-            <a href="#">Packers movers</a> | 
-            <a href="#">Car Transport</a> | 
-            <a href="#">Warehouse</a> | 
-            <a href="#">Logistics</a> | 
-            <a href="#">Open Body Trucks</a> | 
-            <a href="#">Close Body Trucks</a> | 
-            <a href="#">JCB Body Trucks</a> | 
-            <a href="#">Platform Trucks</a> | 
-            <a href="#">Small trucks</a> | 
-            <a href="#">Big Trucks</a> | 
-            <a href="#">Heavy Trucks</a> | 
-            <a href="#">Air Cargo</a> | 
-            <a href="#">SEO Cargo</a> | 
-            <a href="#">Custom clearance</a> | 
-            <a href="#">Our Network</a> | 
-            <a href="#">Our Team</a> | 
-            <a href="#">Branches</a> | 
-            <a href="#">History</a> | 
-            <a href="#">About</a> | 
-            <a href="#">Services</a> | 
-            <a href="#">Low Bed Trailers</a> | 
-            <a href="#">High Bed Trailers</a> | 
-            <a href="#">Semi low bed Trailers</a> | 
-            <a href="#">Hydraulic Axel Trailers</a> | 
-            <a href="#">Extendable Trailers</a> | 
-            <a href="#">Loading</a> | 
-            <a href="#">Unloading</a> | 
-            <a href="#">Packing</a> | 
-            <a href="#">Unpacking</a> | 
-            <a href="#">Office Shifting</a> | 
-            <a href="#">Project Transportation</a> | 
-            <a href="#">Bulk Cargo</a> | 
-            <a href="#">Loose cargo</a> | 
-            <a href="#">LCL</a> | 
-            <a href="#">FTL</a> 
-            
+
+        <div class="container">
+        <!-- About Section Starts Here -->
+        <div class="about-section">
+          <div class="about-image">
+            <img src="images/open-body-bolero-pick-up-truck-images/Bolero_Camper-2.jpg" alt="National-Transport-Company-New-Delhi">
+          </div>
+          <div class="about-text">
+            <div class="about-heading">
+              <h1 class="heading-two "><img class="icon" src="icons/loc.png" alt="location">Low Bed Trailer Service In New Delhi</h1>
+             
+            </div>
+            <div class="about-para">
+              <p>
+              Low Bed Trailer Truck Services For Large And Heavy Goods Is Provided By National Transport Services New Delhi.
+                            Our Company Provides 40 Feet Low Bed Trailer Truck, 50 Feet Long Low Bed Trailer Truck, 60 Feet Low Bed Trailer Truck
+                            And Extendable Large Low Bed Trailers With Carrying Capacity Upto 200 MT. Our Company Is One Of The Pioneering Company
+                            In Long Haul Cargo Movement Of Over Size Goods Like Industrial Boiler, Transfarmers, Metro Coaches And Train Engines
+                            Transporation In New Delhi NCR Region. </p>
+            </div>
+            <div class="row button-row">
+              <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Enquiry</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Read More</a></div>
+            </div>
+          </div>
         </div>
-</div>
-         -->
+
+
+<!-- About Section Starts Here -->
+
+        <div class="about-section">
+            <div class="about-content">
+               
+                <div class="about-text">
+                    <div class="about-heading">
+                        <h1><img class="icon" src="icons/loc.png" alt="location">National Transport New Delhi</h1>
+                    </div>
+                    <div class="about-para">
+                        <p>
+                        National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.
+                        </p>
+                        <div class="row button-row">
+              <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Enquiry</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Read More</a></div>
+            </div>
+                    </div>
+                </div> <div class="about-image">
+                    <img src="images/open-body-bolero-pick-up-truck-images/bolero-maxi-truckplus.jpg" alt="National-Transport-Company-New-Delhi">
+                </div>
+               
+                
+                
+            </div>
+        </div>
+
+        <div class="about-section">
+            <div class="about-content">
+            </div> <div class="about-image">
+                    <img src="images/open-body-bolero-pick-up-truck-images/mahindra-bolero-pikup-cng.webp" alt="National-Transport-Company-New-Delhi">
+                </div>
+               
+                <div class="about-text">
+                    <div class="about-heading">
+                        <h1><img class="icon" src="icons/loc.png" alt="location">National Transport New Delhi</h1>
+                    </div>
+                    <div class="about-para">
+                        <p>
+                        National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.
+                        </p>
+                        <div class="row button-row">
+              <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Enquiry</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Read More</a></div>
+            </div>
+                    </div>
+                
+               
+                
+                
+            </div>
+        </div>
+
+        <div class="about-section">
+            <div class="about-content">
+               
+                <div class="about-text">
+                    <div class="about-heading">
+                        <h1><img class="icon" src="icons/loc.png" alt="location">National Transport New Delhi</h1>
+                    </div>
+                    <div class="about-para">
+                        <p>
+                        National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.
+                        </p>
+                        <div class="row button-row">
+              <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Enquiry</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Read More</a></div>
+            </div>
+                    </div>
+                </div> <div class="about-image">
+                    <img src="images/open-body-bolero-pick-up-truck-images/bolero-maxi-truckplus.jpg" alt="National-Transport-Company-New-Delhi">
+                </div>
+               
+                
+                
+            </div>
+        </div>
+
+        <div class="about-section">
+            <div class="about-content"></div> <div class="about-image">
+                    <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
+                </div>
+               
+                <div class="about-text">
+                    <div class="about-heading">
+                        <h1><img class="icon" src="icons/loc.png" alt="location">National Transport New Delhi</h1>
+                    </div>
+                    <div class="about-para">
+                        <p>
+                        National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.
+                        </p>
+                        <div class="row button-row">
+              <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Enquiry</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Read More</a></div>
+            </div>
+                    </div>
+              
+               
+                
+                
+            </div>
+        </div>
+
+        <div class="about-section">
+            <div class="about-content">
+               
+                <div class="about-text">
+                    <div class="about-heading">
+                        <h1><img class="icon" src="icons/loc.png" alt="location">National Transport New Delhi</h1>
+                    </div>
+                    <div class="about-para">
+                        <p>
+                        National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.
+                        </p>
+                        <div class="row button-row">
+              <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Enquiry</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Read More</a></div>
+            </div>
+                    </div>
+                </div> <div class="about-image">
+                    <img src="images/open-body-bolero-pick-up-truck-images/Bolero_Camper-2.jpg" alt="National-Transport-Company-New-Delhi">
+                </div>
+               
+                
+                
+            </div>
+        </div>
+
+        <div class="about-section">
+            <div class="about-content">
+            </div> <div class="about-image">
+                    <img src="images/open-body-bolero-pick-up-truck-images/Bolero_Camper-2.jpg" alt="National-Transport-Company-New-Delhi">
+                </div>
+                <div class="about-text">
+                    <div class="about-heading">
+                        <h1><img class="icon" src="icons/loc.png" alt="location">National Transport New Delhi</h1>
+                    </div>
+                    <div class="about-para">
+                        <p>
+                        National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.
+                        </p>
+                        <div class="row button-row">
+              <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Enquiry</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Read More</a></div>
+            </div>
+                    </div>
+                </div> 
+               
+                
+                
+            </div>
+        </div>
+
+        <div class="about-section">
+            <div class="about-content">
+               
+                <div class="about-text">
+                    <div class="about-heading">
+                        <h1><img class="icon" src="icons/loc.png" alt="location">National Transport New Delhi</h1>
+                    </div>
+                    <div class="about-para">
+                        <p>
+                        National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.
+                        </p>
+                        <div class="row button-row">
+              <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Contact</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Enquiry</a></div>
+              <div class="four-btn"><a href="#" class="text-decoration-none">Read More</a></div>
+            </div>
+                    </div>
+                </div> <div class="about-image">
+                    <img src="images/open-body-bolero-pick-up-truck-images/bolero-maxi-truckplus.jpg" alt="National-Transport-Company-New-Delhi">
+                </div>
+               
+                
+                
+            </div>
+        </div>
 
 
           <!-- Reacent Tags Start -->
