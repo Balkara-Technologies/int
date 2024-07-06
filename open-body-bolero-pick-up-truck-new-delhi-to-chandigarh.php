@@ -45,7 +45,7 @@
         <div class="container">
         <div class="card-container-img">
         <div class="card-img">
-            <img src="images/car-carrier-images/cartrans.jpg" alt="Image 1">
+            <img src="images/open-body-bolero-pick-up-truck-images/mahindra-bolero-pikup-cng.webp" alt="Image 1">
             <h2>40 Feet Truck</h2>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis deleniti exercitationem laboriosam nisi, adipisci iure dicta dolorem atque eaque saepe odit ex animi natus non nobis necessitatibus totam quos eveniet?
             </p>
@@ -56,7 +56,7 @@
              </div>
         </div>
         <div class="card-img">
-            <img src="images/car-carrier-images/cartrans.jpg" alt="Image 2">
+            <img src="images/open-body-bolero-pick-up-truck-images/bolero-maxi-truckplus.jpg" alt="Image 2">
             <h2>50 Feet Truck</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto impedit facere quas quibusdam ipsam ducimus expedita blanditiis a eos aliquid. Unde repellat beatae saepe quo, ad non laboriosam impedit modi!</p>
             <hr>
@@ -66,7 +66,7 @@
              </div>
         </div>
         <div class="card-img">
-            <img src="images/car-carrier-images/cartrans.jpg" alt="Image 3">
+            <img src="images/open-body-bolero-pick-up-truck-images/Bolero_Camper-2.jpg" alt="Image 3">
             <h2>60 Feet Truck</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias neque, odit tempore voluptates, delectus doloremque soluta nesciunt assumenda quidem voluptatum sunt quam atque? At id ipsa eius eaque qui labore!</p>
             <hr>
@@ -83,7 +83,7 @@
         <!-- About Section Starts Here -->
         <div class="about-section">
           <div class="about-image">
-            <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
+            <img src="images/open-body-bolero-pick-up-truck-images/Bolero_Camper-2.jpg" alt="National-Transport-Company-New-Delhi">
           </div>
           <div class="about-text">
             <div class="about-heading">
@@ -129,7 +129,7 @@
             </div>
                     </div>
                 </div> <div class="about-image">
-                    <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
+                    <img src="images/open-body-bolero-pick-up-truck-images/bolero-maxi-truckplus.jpg" alt="National-Transport-Company-New-Delhi">
                 </div>
                
                 
@@ -140,7 +140,7 @@
         <div class="about-section">
             <div class="about-content">
             </div> <div class="about-image">
-                    <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
+                    <img src="images/open-body-bolero-pick-up-truck-images/mahindra-bolero-pikup-cng.webp" alt="National-Transport-Company-New-Delhi">
                 </div>
                
                 <div class="about-text">
@@ -184,7 +184,7 @@
             </div>
                     </div>
                 </div> <div class="about-image">
-                    <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
+                    <img src="images/open-body-bolero-pick-up-truck-images/bolero-maxi-truckplus.jpg" alt="National-Transport-Company-New-Delhi">
                 </div>
                
                 
@@ -238,7 +238,7 @@
             </div>
                     </div>
                 </div> <div class="about-image">
-                    <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
+                    <img src="images/open-body-bolero-pick-up-truck-images/Bolero_Camper-2.jpg" alt="National-Transport-Company-New-Delhi">
                 </div>
                
                 
@@ -249,7 +249,7 @@
         <div class="about-section">
             <div class="about-content">
             </div> <div class="about-image">
-                    <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
+                    <img src="images/open-body-bolero-pick-up-truck-images/Bolero_Camper-2.jpg" alt="National-Transport-Company-New-Delhi">
                 </div>
                 <div class="about-text">
                     <div class="about-heading">
@@ -292,196 +292,193 @@
             </div>
                     </div>
                 </div> <div class="about-image">
-                    <img src="images/home-page-images/14-feet-close-body-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
+                    <img src="images/open-body-bolero-pick-up-truck-images/bolero-maxi-truckplus.jpg" alt="National-Transport-Company-New-Delhi">
                 </div>
                
                 
                 
             </div>
         </div>
-
-<!-- About Section Ends Here -->
-
-
-<!-- Recent Searches Section Starts Here -->
-
-        <!-- <div class="keywords">
-            <a href="index.php">truck transport service</a>
-            <a href="index.php">book truck online</a>
-
-        </div> -->
-<!-- Recent Searches Section Ends Here -->
-<!-- 
-        <?php include "trucks-services.php"; ?>
-        <?php include "trailers-menu.php"; ?>
-        <div class="row ms-5 mt-5 m-0 p-0">
-            <div class="col-5">
-                <img src="images/low-bed-trailer.jpg" alt="truck-images" class="img-fluid border rounded-circle shadow-lg">
-            </div>
-            <div class="col-5 ms-5">
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="col-12">
-                            <h1 class="mt-5">National Transport</h1>
-                            <h1>New Delhi</h1>
-                            <p class="mt-5">National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.</p>
-                        </div>
-                        <div class="row mt-5">
-                        <div class="col-3 four-btn">
-                            <a href="#" class="text-decoration-none">Book Now</a>
-                        </div>
-                        <div class="col-3 four-btn">
-                            <a href="#" class="text-decoration-none">Contact</a>
-                        </div>
-                        <div class="col-3 four-btn">
-                            <a href="#" class="text-decoration-none">Enquiry</a>
-                        </div>
-                        <div class="col-3 four-btn">
-                            <a href="#" class="text-decoration-none">Read More</a>
-                        </div>
+  <!-- testimonial start -->
+ <!-- testimonial  -->
+ <section class="testimonials">
+        <div class="container">
+            <h2><span></span> <mark>Testim</mark>onial</h2>
+            <div class="cards">
+                <div class="card">
+                    <div class="image-container">
+                        <img src="images/testimonials/aarav-kumar.jpg" alt="Andrew Rathore">
+                    </div>
+                    <div class="testimonial-content">
+                        <p class="name">Andrew Rathore</p>
+                        <p class="title">Founder & CEO</p>
+                        <p class="testimonial">National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport
+            And Online Truck Booking Service From New Delhi To All Over India.National Transport Is The Best Transport Company In New Delhi. 
+            Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.</p>
+                        <div class="rating">
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star"></span>
                         </div>
                     </div>
                 </div>
-            </div>
-        </div> -->
-        <!-- <div class="row mt-5 p-0 m-0">
-            <div class="col-12 d-flex justify-content-center">
-                <h1>Testimonial</h1>
-            </div>
+               
+            <div class="cards">
+                <div class="card">
+                    <div class="image-container">
+                        <img src="images/testimonials/sam-gupta.png" alt="Andrew Rathore">
+                    </div>
+                    <div class="testimonial-content">
+                        <p class="name">Andrew Rathore</p>
+                        <p class="title">Founder & CEO</p>
+                        <p class="testimonial">National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport
+            And Online Truck Booking Service From New Delhi To All Over India.National Transport Is The Best Transport Company In New Delhi. 
+            Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.
+        </p>
+                        <div class="rating">
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star"></span>
+                        </div>
+                    </div>
+                </div>
+               
+            <div class="cards">
+                <div class="card">
+                    <div class="image-container">
+                        <img src="images/testimonials/satyam-tiwari.jpg" alt="Andrew Rathore">
+                    </div>
+                    <div class="testimonial-content">
+                        <p class="name">Andrew Rathore</p>
+                        <p class="title">Founder & CEO</p>
+                        <p class="testimonial">National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport
+            And Online Truck Booking Service From New Delhi To All Over India.National Transport Is The Best Transport Company In New Delhi. 
+            Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India. </p>                        <div class="rating">
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star checked"></span>
+                            <span class="fa fa-star"></span>
+                        </div>
+                    </div>
+                </div>
+               
         </div>
-        <div class="row justify-content-around mt-5 p-0 m-0">
-            <div class="col-1" style="margin-top: 150px;padding-left: 110px;"><i class="fa fa-angle-left pt-4 fs-5 fw-bold" aria-hidden="true"></i></div>
-            <div class="col-3 border border-primary">
-                <div class="container-fluid">
-                    <div class="row mt-4">
-                        <div class="col-8 ms-5">
-                            <img src="images/raj-yadav.jpg" alt="testimonial-image" class="rounded-circle img-fluid">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-12">
-                            <h5 class="d-flex justify-content-center mt-4">Raj Yadav</h5>
-                            <p class="d-flex justify-content-center">Best Transport Company...</p>
-                            <hr>
-                            <p class="text-center">National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-3 border border-primary">
-                <div class="container-fluid">
-                    <div class="row ms-5 mt-4">
-                        <div class="col-9 ms-3">
-                            <img src="images/ramakant-kumar.jpg" alt="testimonial-image" class="rounded-circle img-fluid">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-12 justify-content-center">
-                            <h5 class="d-flex justify-content-center mt-4">Ramakaant Kumar</h5>
-                            <p class="d-flex justify-content-center">Low Cost Transport...</p>
-                            <hr>
-                            <p class="text-center">National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-3 border border-primary ">
-                <div class="container-fluid">
-                    <div class="row ms-5 mt-4">
-                        <div class="col-9 ms-3">
-                            <img src="images/ramesh-singh.jpg" alt="testimonial-image" class="rounded-circle img-fluid">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-12 justify-content-center">
-                            <h5 class="d-flex justify-content-center mt-4">Ramesh Singh</h5>
-                            <p class="d-flex justify-content-center">Time Bound Delivery... </p>
-                            <hr>
-                            <p class="text-center">National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.National Transport Is The Best Transport Company In New Delhi. Our Company Provides All Types Of Truck Transport And Online Truck Booking Service From New Delhi To All Over India.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-1" style="margin-top: 150px;"><i class="fa fa-angle-right pt-4 fs-5 fw-bold" aria-hidden="true"></i></div>
+    </section>
+
+
+     <!-- testimonial end  -->
+
+     <!-- Reacent Tags Start -->
+     <div class="container-r">
+            <h1>Tags</h1>
+        <div class="tags-r">
+            <a href="#">India News</a>
+            <a href="#">BJP</a>
+            <a href="#">Congress</a>
+            <a href="#">Indian Politics</a>
+            <a href="#">Haryana</a>
+            <a href="#">Bhupinder Singh Hooda</a>
+            <a href="#">Nayab Singh Saini</a>
+            <a href="#">India News</a>
+            <a href="#">BJP</a>
+            <a href="#">Congress</a>
+            <a href="#">Indian Politics</a>
+            <a href="#">Haryana</a>
+            <a href="#">Bhupinder Singh Hooda</a>
+            <a href="#">Nayab Singh Saini</a>
+            <a href="#">India News</a>
+            <a href="#">BJP</a>
+            <a href="#">Congress</a>
+            <a href="#">Indian Politics</a>
+            <a href="#">Haryana</a>
+            <a href="#">Bhupinder Singh Hooda</a>
+            <a href="#">Nayab Singh Saini</a>
         </div>
-        <div class="row mt-5 m-0 p-0 justify-content-around">
-            <div class="col-5 border border-dark m-0 p-0 ">
-                <div class="container-fluid">
-                    <div class="row pt-3">
-                        <div class="col-12 d-flex justify-content-center fs-2">
-                            <p>Recent Articles</p>
-                        </div>
-                    </div>
-                    <div class="row text-center">
-                        <p>
-                            <a href="#" class="text-decoration-none">Logistics Policy In Transport Startups In India</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            <a href="#" class="text-decoration-none">Best Low Bed Trailer Booking Compnay In New Delhi</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-                            <a href="#" class="text-decoration-none">Booking Company In New Delhi</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-                            <a href="#" class="text-decoration-none">How To Book Low Bed Trailer Online</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        </p>
-                    </div>
-                </div>
-
-            </div>
-            <div class="col-5 border border-dark m-0 p-0 ">
-                <div class="container-fluid">
-                    <div class="row pt-3">
-                        <div class="col-12 d-flex justify-content-center fs-2">
-                            <p>Recent Search</p>
-                        </div>
-                    </div>
-                    <div class="row text-center">
-                        <p>
-                            <a href="#" class="text-decoration-none">Low Bed Trailer </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            <a href="#" class="text-decoration-none">Low Bed Trailer  booking New Delhi to Ludhiyana</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            <a href="#" class="text-decoration-none">Low Bed Trailer  Truck Tansport New Delhi To Jalandhar</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            <a href="#" class="text-decoration-none">How To Hire Low Bed Trailer  Truck</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        </p>
-                    </div>
-                </div>
-            </div>
+        <h1>Recent seraches</h1>
+        <div class="tags-r">
+            <a href="#">India News</a>
+            <a href="#">BJP</a>
+            <a href="#">Congress</a>
+            <a href="#">Indian Politics</a>
+            <a href="#">Haryana</a>
+            <a href="#">Bhupinder Singh Hooda</a>
+            <a href="#">Nayab Singh Saini</a>
         </div>
-        <div class="row mt-5 m-0 p-0 justify-content-around">
-            <div class="col-5 border border-dark m-0 p-0 ">
-                <div class="container-fluid">
-                    <div class="row pt-3">
-                        <div class="col-12 d-flex justify-content-center fs-2">
-                            <p>Recent Blogs</p>
-                        </div>
-                    </div>
-                    <div class="row text-center">
-                        <p>
-                            <a href="#" class="text-decoration-none">Packers Movers Tips </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            <a href="#" class="text-decoration-none">Low Bed Trailer  Transport Guidence</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            <a href="#" class="text-decoration-none">Online Low Bed Trailer  Booking Tips</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            <a href="#" class="text-decoration-none">Low Bed Trailer  Troll Charges in India</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        </p>
-                    </div>
-                </div>
-
-            </div>
-            <div class="col-5 border border-dark m-0 p-0 ">
-                <div class="container-fluid">
-                    <div class="row pt-3">
-                        <div class="col-12 d-flex justify-content-center fs-2">
-                            <p>Tags</p>
-                        </div>
-                    </div>
-                    <div class="row text-center">
-                        <p>
-                            <a href="#" class="text-decoration-none ">Low Bed Trailer  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-                            <a href="#" class="text-decoration-none ">Best Tranport</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            <a href="#" class="text-decoration-none ">Low Bed Trailer Booking</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-                            <a href="#" class="text-decoration-none ">Delhi Transport</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div> -->
+        <h1>Recent Blogs</h1>
+        <div class="tags-r">
+            <a href="#">India News</a>
+            <a href="#">BJP</a>
+            <a href="#">Congress</a>
+            <a href="#">Indian Politics</a>
+            <a href="#">Haryana</a>
+            <a href="#">Bhupinder Singh Hooda</a>
+            <a href="#">Nayab Singh Saini</a>
+        </div>
+        <h1>Recent News</h1>
+        <div class="tags-r">
+            <a href="#">India News</a>
+            <a href="#">BJP</a>
+            <a href="#">Congress</a>
+            <a href="#">Indian Politics</a>
+            <a href="#">Haryana</a>
+            <a href="#">Bhupinder Singh Hooda</a>
+            <a href="#">Nayab Singh Saini</a>
+        </div>
 
 
-        <?php include "testimonial.php"; ?>
-        <?php include "recent-searches.php"; ?>
+        <div><h1>Popular Searches</h1></div><br>
+        <div class="tags-r">
+            
+            <a href="#">Trailer</a>  
+            <a href="#">Truck</a>  
+            <a href="#">Container</a>  
+            <a href="#">Packeges</a>  
+            <a href="#">Packers movers</a>  
+            <a href="#">Car Transport</a>  
+            <a href="#">Warehouse</a>  
+            <a href="#">Logistics</a>  
+            <a href="#">Open Body Trucks</a>  
+            <a href="#">Close Body Trucks</a>  
+            <a href="#">JCB Body Trucks</a>  
+            <a href="#">Platform Trucks</a>  
+            <a href="#">Small trucks</a>  
+            <a href="#">Big Trucks</a>  
+            <a href="#">Heavy Trucks</a>  
+            <a href="#">Air Cargo</a>  
+            <a href="#">SEO Cargo</a>  
+            <a href="#">Custom clearance</a>  
+            <a href="#">Our Network</a>  
+            <a href="#">Our Team</a>  
+            <a href="#">Branches</a>  
+            <a href="#">History</a>  
+            <a href="#">About</a>  
+            <a href="#">Services</a>  
+            <a href="#">Low Bed Trailers</a>  
+            <a href="#">High Bed Trailers</a>  
+            <a href="#">Semi low bed Trailers</a>  
+            <a href="#">Hydraulic Axel Trailers</a>  
+            <a href="#">Extendable Trailers</a>  
+            <a href="#">Loading</a>  
+            <a href="#">Unloading</a>  
+            <a href="#">Packing</a>  
+            <a href="#">Unpacking</a>  
+            <a href="#">Office Shifting</a>  
+            <a href="#">Project Transportation</a>  
+            <a href="#">Bulk Cargo</a>  
+            <a href="#">Loose cargo</a>  
+            <a href="#">LCL</a>  
+            <a href="#">FTL</a> 
+            
+        </div>
+       
+    </div>
+    <!-- Reacent tags end -->
+        
         <?php include "footer.php"; ?>
     </div>
    

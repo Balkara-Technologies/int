@@ -299,63 +299,8 @@
             </div>
         </div>
      </div>
-        <div class="container-r">
-            <h1>Tags</h1>
-        <div class="tags-r">
-            <a href="#">India News</a>
-            <a href="#">BJP</a>
-            <a href="#">Congress</a>
-            <a href="#">Indian Politics</a>
-            <a href="#">Haryana</a>
-            <a href="#">Bhupinder Singh Hooda</a>
-            <a href="#">Nayab Singh Saini</a>
-            <a href="#">India News</a>
-            <a href="#">BJP</a>
-            <a href="#">Congress</a>
-            <a href="#">Indian Politics</a>
-            <a href="#">Haryana</a>
-            <a href="#">Bhupinder Singh Hooda</a>
-            <a href="#">Nayab Singh Saini</a>
-            <a href="#">India News</a>
-            <a href="#">BJP</a>
-            <a href="#">Congress</a>
-            <a href="#">Indian Politics</a>
-            <a href="#">Haryana</a>
-            <a href="#">Bhupinder Singh Hooda</a>
-            <a href="#">Nayab Singh Saini</a>
-        </div>
-        <h1>Recent seraches</h1>
-        <div class="tags-r">
-            <a href="#">India News</a>
-            <a href="#">BJP</a>
-            <a href="#">Congress</a>
-            <a href="#">Indian Politics</a>
-            <a href="#">Haryana</a>
-            <a href="#">Bhupinder Singh Hooda</a>
-            <a href="#">Nayab Singh Saini</a>
-        </div>
-        <h1>Recent Blogs</h1>
-        <div class="tags-r">
-            <a href="#">India News</a>
-            <a href="#">BJP</a>
-            <a href="#">Congress</a>
-            <a href="#">Indian Politics</a>
-            <a href="#">Haryana</a>
-            <a href="#">Bhupinder Singh Hooda</a>
-            <a href="#">Nayab Singh Saini</a>
-        </div>
-        <h1>Recent News</h1>
-        <div class="tags-r">
-            <a href="#">India News</a>
-            <a href="#">BJP</a>
-            <a href="#">Congress</a>
-            <a href="#">Indian Politics</a>
-            <a href="#">Haryana</a>
-            <a href="#">Bhupinder Singh Hooda</a>
-            <a href="#">Nayab Singh Saini</a>
-        </div>
-       
-    </div>
+     
+
      <!-- testimonial start -->
  <!-- testimonial  -->
  <section class="testimonials">
@@ -429,7 +374,112 @@
 
 
      <!-- testimonial end  -->
-        <?php include "recent-searches.php"; ?>
+
+     <!-- Reacent Tags Start -->
+     <div class="container-r">
+            <h1>Tags</h1>
+        <div class="tags-r">
+            <a href="#">India News</a>
+            <a href="#">BJP</a>
+            <a href="#">Congress</a>
+            <a href="#">Indian Politics</a>
+            <a href="#">Haryana</a>
+            <a href="#">Bhupinder Singh Hooda</a>
+            <a href="#">Nayab Singh Saini</a>
+            <a href="#">India News</a>
+            <a href="#">BJP</a>
+            <a href="#">Congress</a>
+            <a href="#">Indian Politics</a>
+            <a href="#">Haryana</a>
+            <a href="#">Bhupinder Singh Hooda</a>
+            <a href="#">Nayab Singh Saini</a>
+            <a href="#">India News</a>
+            <a href="#">BJP</a>
+            <a href="#">Congress</a>
+            <a href="#">Indian Politics</a>
+            <a href="#">Haryana</a>
+            <a href="#">Bhupinder Singh Hooda</a>
+            <a href="#">Nayab Singh Saini</a>
+        </div>
+        <h1>Recent seraches</h1>
+        <div class="tags-r">
+            <a href="#">India News</a>
+            <a href="#">BJP</a>
+            <a href="#">Congress</a>
+            <a href="#">Indian Politics</a>
+            <a href="#">Haryana</a>
+            <a href="#">Bhupinder Singh Hooda</a>
+            <a href="#">Nayab Singh Saini</a>
+        </div>
+        <h1>Recent Blogs</h1>
+        <div class="tags-r">
+            <a href="#">India News</a>
+            <a href="#">BJP</a>
+            <a href="#">Congress</a>
+            <a href="#">Indian Politics</a>
+            <a href="#">Haryana</a>
+            <a href="#">Bhupinder Singh Hooda</a>
+            <a href="#">Nayab Singh Saini</a>
+        </div>
+        <h1>Recent News</h1>
+        <div class="tags-r">
+            <a href="#">India News</a>
+            <a href="#">BJP</a>
+            <a href="#">Congress</a>
+            <a href="#">Indian Politics</a>
+            <a href="#">Haryana</a>
+            <a href="#">Bhupinder Singh Hooda</a>
+            <a href="#">Nayab Singh Saini</a>
+        </div>
+
+        <div><h1>Popular Searches</h1></div><br>
+        <div class="tags-r">
+            
+            <a href="#">Trailer</a>  
+            <a href="#">Truck</a>  
+            <a href="#">Container</a>  
+            <a href="#">Packeges</a>  
+            <a href="#">Packers movers</a>  
+            <a href="#">Car Transport</a>  
+            <a href="#">Warehouse</a>  
+            <a href="#">Logistics</a>  
+            <a href="#">Open Body Trucks</a>  
+            <a href="#">Close Body Trucks</a>  
+            <a href="#">JCB Body Trucks</a>  
+            <a href="#">Platform Trucks</a>  
+            <a href="#">Small trucks</a>  
+            <a href="#">Big Trucks</a>  
+            <a href="#">Heavy Trucks</a>  
+            <a href="#">Air Cargo</a>  
+            <a href="#">SEO Cargo</a>  
+            <a href="#">Custom clearance</a>  
+            <a href="#">Our Network</a>  
+            <a href="#">Our Team</a>  
+            <a href="#">Branches</a>  
+            <a href="#">History</a>  
+            <a href="#">About</a>  
+            <a href="#">Services</a>  
+            <a href="#">Low Bed Trailers</a>  
+            <a href="#">High Bed Trailers</a>  
+            <a href="#">Semi low bed Trailers</a>  
+            <a href="#">Hydraulic Axel Trailers</a>  
+            <a href="#">Extendable Trailers</a>  
+            <a href="#">Loading</a>  
+            <a href="#">Unloading</a>  
+            <a href="#">Packing</a>  
+            <a href="#">Unpacking</a>  
+            <a href="#">Office Shifting</a>  
+            <a href="#">Project Transportation</a>  
+            <a href="#">Bulk Cargo</a>  
+            <a href="#">Loose cargo</a>  
+            <a href="#">LCL</a>  
+            <a href="#">FTL</a> 
+            
+        </div>
+       
+    </div>
+    <!-- Reacent tags end -->
+        
         <?php include "footer.php"; ?>
     </div>
     
