@@ -190,7 +190,7 @@
             </div>
                     </div>
                 </div> <div class="about-image">
-                    <img src="images\close-body-bolero-pick-up-truck-images\Mahindra-Bolero-Right-Front.jpg" alt="National-Transport-Company-New-Delhi">
+                    <img src="images\close-body-bolero-pick-up-truck-images\tata-ace-truck-new-delhi.jpg" alt="National-Transport-Company-New-Delhi">
                 </div>
                
                 
