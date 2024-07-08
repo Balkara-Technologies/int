@@ -40,14 +40,14 @@
 
         <?php include "middle-menu.php"; ?>
         <?php include "main-menu.php"; ?>
-        <h1 class="heading-one slash"><span></span> <mark>  Truck Serv</mark>ice in New Delhi</h1>
+        <h1 class="heading-one slash">Pickup Truck Service in New Delhi</h1>
 
         <div class="card-container-img">
 
         <div class="card-img">
             <img src="images/pick-up-trucks/close-body-pickup.png" alt="Image 1">
-            <h2>Close Body Pickup Truck</h2>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis deleniti exercitationem laboriosam nisi, adipisci iure dicta dolorem atque eaque saepe odit ex animi natus non nobis necessitatibus totam quos eveniet?
+            <h2>Open Body Pickup Truck</h2>
+            <p>Bolero Pickup Truck Is Available In New Delhi. National Transport Service Provide Open Body Pickup Truck In New Delhi. Transport Of Small Commercial & Household Goods Are Transported By Bolero Pickup Truck From New Delhi To All Over India. 24x7 Boleroa Pickup Truck Available In New Delhi NCR Region.
             </p>
             <hr>
             <div class="row button-row">
@@ -57,8 +57,8 @@
         </div>
         <div class="card-img">
             <img src="images/pick-up-trucks/open-body-pickup.png" style="height:200px;"alt="Image 2">
-            <h2>Open Body Pickup Truck</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto impedit facere quas quibusdam ipsam ducimus expedita blanditiis a eos aliquid. Unde repellat beatae saepe quo, ad non laboriosam impedit modi!</p>
+            <h2>Close Body Pickup Truck</h2>
+            <p>Bolero Pickup Truck Is Available In New Delhi. National Transport Service Provide Close Body Pickup Truck In New Delhi. Our Company Ownes Fleet of Close Body Pickup Trucks. Expert Drivers Delivery Your Material Safely & On Time. 24x7 Bolero Close Body Pickup Truck Available In New Delhi NCR Region.</p>
             <hr>
             <div class="row button-row">
               <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
@@ -68,7 +68,7 @@
         <div class="card-img">
             <img src="images/pick-up-trucks/platform-pick-up-removebg-preview (1).png" alt="Image 3">
             <h2>Platform Pickup Truck</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias neque, odit tempore voluptates, delectus doloremque soluta nesciunt assumenda quidem voluptatum sunt quam atque? At id ipsa eius eaque qui labore!</p>
+            <p>Platform Pickup Truck Is Available In New Delhi. Small ODC Material Are Transported Through Our Platform Trucks. We Provide Open Body Platform Bolero Pickup for Events & Advertisment In Elections. Product Launch Events Also Use Platform Trucks for Advertisement Purpose. 24x7 Boleroa Pickup Truck Available In New Delhi NCR Region.</p>
             <hr>
             <div class="row button-row">
               <div class="four-btn"><a href="#" class="text-decoration-none">Book Now</a></div>
