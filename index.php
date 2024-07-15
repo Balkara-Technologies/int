@@ -50,8 +50,9 @@
         <?php include "testimonial.php"; ?>
         <?php include "recent-searches.php"; ?>
     </div>  
-    <div>    
+    <div>   
+    <?php include "footer.php"; ?> 
 </div>  
-    <?php include "footer.php"; ?>
+
 </body>
 </html>

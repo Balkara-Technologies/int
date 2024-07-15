@@ -51,7 +51,7 @@
                 </a>
             </li>
             <li>
-                <a href="#">
+                <a href="register.php">
                 <i class="bi bi-house-door-fill"></i>
                 &nbsp;
                 REGISTER

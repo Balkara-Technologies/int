@@ -7,7 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>open body bolero pick up truck new Delhi | Call +91-9289218921</title>
     <meta name="description" content="14 Feet Truck Transport Service In New Delhi Is Available Now For Online Truck Booking By National Transport Service. Call +91-9289218921 For Best Truck Transport Services. Our Fleet Includes 14 Feet Open Body Truck, 17 Feet Open Body Truck, 19 Feet Open Body Truck, 22 Feet Open Body Truck. Best Transport Service Available With Lowest Possible Rates.">
-    <meta name="keywords" content="14 Feet Truck, 14 Feet Canter, Open Body Truck, Close Body Truck, 14 Feet Canter, Tempo Service, Delhi Truck, Transport Truck, Canter Transport">
+    <meta name="keywords" content=" 17 Feet Open Body Truck  Faridabad to Kathmandu Nepal ,	
+ 19 Feet Open Body Truck  Faridabad to Kathmandu Nepal	,
+ 22 Feet Open Body Truck  Faridabad to Kathmandu Nepal	14 Feet Truck, 14 Feet Canter, Open Body Truck, Close Body Truck, 14 Feet Canter, Tempo Service, Delhi Truck, Transport Truck, Canter Transport">
     <meta name="author" content="http://www.indiannationaltransport.com">
     <link rel="apple-touch-icon" sizes="180x180" href="icons/national-transport-favicon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="icons/national-transport-favicon.png">
@@ -326,6 +328,10 @@
         </div>
         <h1>Recent seraches</h1>
         <div class="tags-r">
+        <a href="#">   17 Feet Open Body Truck New Delhi to Kathmandu Nepal	</a>
+            <a href="#"> 19 Feet Open Body Truck New Delhi to Kathmandu Nepal	</a>
+            <a href="#">22 Feet Open Body Truck New Delhi to Kathmandu Nepal</a>
+           
             <a href="#">India News</a>
             <a href="#">BJP</a>
             <a href="#">Congress</a>
@@ -346,6 +352,10 @@
         </div>
         <h1>Recent News</h1>
         <div class="tags-r">
+             <a href="#">   17 Feet Open Body Truck New Delhi to Kathmandu Nepal	</a>
+            <a href="#"> 19 Feet Open Body Truck New Delhi to Kathmandu Nepal	</a>
+            <a href="#">22 Feet Open Body Truck New Delhi to Kathmandu Nepal</a>
+           
             <a href="#">India News</a>
             <a href="#">BJP</a>
             <a href="#">Congress</a>
@@ -357,7 +367,10 @@
 
         <div><h1>Popular Searches</h1></div><br>
         <div class="tags-r">
-            
+        <a href="#">   17 Feet Open Body Truck New Delhi to Kathmandu Nepal	</a>
+            <a href="#"> 19 Feet Open Body Truck New Delhi to Kathmandu Nepal	</a>
+            <a href="#">22 Feet Open Body Truck New Delhi to Kathmandu Nepal</a>
+           
             <a href="#">Trailer</a>  
             <a href="#">Truck</a>  
             <a href="#">Container</a>  
@@ -396,7 +409,11 @@
             <a href="#">Bulk Cargo</a>  
             <a href="#">Loose cargo</a>  
             <a href="#">LCL</a>  
-            <a href="#">FTL</a> 
+            <a href="#">FTL</a>
+            <a href="#">17 Feet Open Body Truck Ghaziabad to Kathmandu Nepal	</a> 
+            <a href="#">19 Feet Open Body Truck Ghaziabad to Kathmandu Nepal	</a> 
+            <a href="#">22 Feet Open Body Truck Ghaziabad to Kathmandu Nepal	</a> 
+            
             
         </div>
        
