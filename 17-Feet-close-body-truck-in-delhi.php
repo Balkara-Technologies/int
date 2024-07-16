@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">    
     <title>17 Feet Truck Transport Service New Delhi | Call +91-9289218921</title>
     <meta name="description" content=" 17 Feet Close Body Truck Gurugram to Kathmandu Nepal,17 Feet Close Body Truck New Delhi to Kathmandu Nepal,17 Feet Long Truck Services In New Delhi Is provided By National Truck Services New Delhi. Call 9289218921 
-    For 17 Feet Open Body Truck Services In New Delhi & 17 Feet Close Body Trucks Services From New Delhi NCR Region To All Over India. 24x7 
+    For 17 Feet Close Body Truck Ghaziabad to Kathmandu Nepal , 17 Feet close Body Truck Services In New Delhi & 17 Feet Close Body Trucks Services From New Delhi NCR Region To All Over India. 24x7 
     Online Truck Booking In New Delhi NCR Region Is Now Available. Our services One of The Fastest 
     Transportation services in All over india.">
     <meta name="keywords" content="17 Feet Trucks, Truck Service Delhi, 17 Feet Close Truck, 17 Feet Open Truck, 

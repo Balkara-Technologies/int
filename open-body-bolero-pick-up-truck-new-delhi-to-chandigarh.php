@@ -376,7 +376,9 @@
      <!-- Reacent Tags Start -->
      <div class="container-r">
             <h1>Tags</h1>
-        <div class="tags-r">
+        <div class="tags-r"><a href="#">   17 Feet Open Body Truck New Delhi to Kathmandu Nepal	</a>
+            <a href="#"> 19 Feet Open Body Truck New Delhi to Kathmandu Nepal	</a>
+            <a href="#">22 Feet Open Body Truck New Delhi to Kathmandu Nepal</a>
             <a href="#">India News</a>
             <a href="#">BJP</a>
             <a href="#">Congress</a>

@@ -6,7 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>19 Feet Truck Transport Services In New Delhi | Call +91-9289218921</title>    
-    <meta name="description" content="19 Feet Truck Transport Services New Delhi Is Now Provided By National Truck Services New Delhi. Call 9289218921
+    <meta name="description" content=" 19 Feet Close Body Truck Ghaziabad to Kathmandu Nepal	
+ ,22 Feet Close Body Truck Ghaziabad to Kathmandu Nepal	,19 Feet Truck Transport Services New Delhi Is Now Provided By National Truck Services New Delhi. Call 9289218921
     For 19 Feet Open Body Trucks & 19 Feet Close Body Trucks Online Truck Booking In New Delhi. Safe Secure & Reliable Truck Transportation. Our services One of The Fastest 
     Transportation services in All over india.">
     <meta name="keywords" content="19 Feet Truck, Delhi Truck Transportation, 19 Feet Packers and movers, Delhi best cargo movers , 

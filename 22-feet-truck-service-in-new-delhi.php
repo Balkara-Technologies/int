@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">  
     <title>22 Feet Truck Transport New Delhi | Call +91-9289218921</title>
-    <meta name="description" content="22 Feet Truck Transport Services Is Now Provided By National Transport Services In New Delhi. 
+    <meta name="description" content=" 19 Feet Close Body Truck Noida to Kathmandu Nepal, 19 Feet Close Body Truck New Delhi to Kathmandu Nepal	,22 Feet Truck Transport Services Is Now Provided By National Transport Services In New Delhi. 
     Call 9289218921 For Safe & Reliable Household & Industrial Goods With Time Bound Delivery. We Provide 22 Feet Open And Close Body Trucks For Easy Loading
     Of Your Valuable Cargo. Our Truck Transport services Are Fastest Transportation services In All over india.">
     <meta name="keywords" content="22 feet truck, 22 feet close truck, truck delhi, long truck in delhi, truck transport,

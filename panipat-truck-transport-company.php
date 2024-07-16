@@ -9,8 +9,9 @@
     For Online Truck Trailer Container Booking In Panipat Haryana. Safe Secure & Reliable Truck Transporation Services In Panipat Haryana. 
     Our services One of The Fastest 
     Transportation services in All over india.">
-    <meta name="keywords" content="panipat transport company , panipat Best Transportation, panipat Packers and movers, panipat best cargo movers , 
-    best logistics companies , All over india Transportation services , Delhi NO.1 Transportation company ,Online truck booking.">
+    <meta name="keywords" content=" 17 Feet Open Body Truck Gurugram to Kathmandu Nepal,panipat transport company , panipat Best Transportation, panipat Packers and movers, panipat best cargo movers , 
+    best logistics companies , All over india Transportation services , 19 Feet Close Body Truck Faridabad to Kathmandu Nepal	
+ 22 Feet Close Body Truck Faridabad to Kathmandu Nepal	, Delhi NO.1 Transportation company ,Online truck booking.">
     <meta name="author" content="http://www.indiannationaltransport.com">
     <link rel="apple-touch-icon" sizes="180x180" href="icons/national-transport-favicon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="icons/national-transport-favicon.png">

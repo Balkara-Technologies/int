@@ -9,8 +9,9 @@
     <meta name="description" content="Truck Transport Company In Faridabad Servics Is Provided By National Transport Company. Call 9289218921 For 
     Online Truck Booking In Faridabad. National Transport Provide Safe & Secure Transportation Services. Our Truck Trailers Containers Transportation
     Services Are One of The Fastest Transportation services From Faridabad To All over india.">
-    <meta name="keywords" content="Faridabad Transport Company, National Transport Services, Trucks In Faridabad, Trailer Trucks, Online Truck Booking
-    Faridabad cargo movers , best logistics companies , All over india Transportation services , Delhi NO.1 Transportation company ,Online truck booking.">
+    <meta name="keywords" content=" 17 Feet Close Body Truck Faridabad to Kathmandu Nepal,Faridabad Transport Company, National Transport Services, Trucks In Faridabad, Trailer Trucks, Online Truck Booking
+    Faridabad cargo movers , best logistics companies , 19 Feet Close Body Truck Faridabad to Kathmandu Nepal	
+, All over india Transportation services , Delhi NO.1 Transportation company ,Online truck booking.">
     <meta name="author" content="http://www.indiannationaltransport.com">
     <link rel="apple-touch-icon" sizes="180x180" href="icons/national-transport-favicon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="icons/national-transport-favicon.png">
